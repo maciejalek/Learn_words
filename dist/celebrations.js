@@ -1,0 +1,4 @@
+// Two word-specific forms for each of 25 short cheers: 50 distinct messages.
+const cheers=['Wow!','Hooray!','Well done!','Great job!','Fantastic!','Wonderful!','Brilliant!','Amazing!','Excellent!','Super!','You did it!','Nice work!','Lovely!','Bravo!','Terrific!','Yay!','Good thinking!','What a match!','Keep it up!','Way to go!','Lovely work!','That was clever!','You found them!','Great matching!','Hip hip hooray!'];
+export function pairMessages(word){return cheers.flatMap(cheer=>[`${cheer} You found the matching ${word} cards!`,`${cheer} The ${word} cards are a pair!`]);}
+export function pairCelebration(word,previous=-1,random=Math.random){const messages=pairMessages(word);let index=Math.floor(random()*(messages.length-(previous>=0?1:0)));if(index>=previous&&previous>=0)index++;return {index,text:messages[index]};}

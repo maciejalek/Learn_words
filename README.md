@@ -44,3 +44,5 @@ Application code: MIT (see LICENSE). Artwork: CC BY-SA 4.0, with separate credit
 ## Vocabulary and sentences update
 
 323 concrete vocabulary entries and 50 original illustrated action sentences. “What is happening?” plays one sentence three times; select its scene from 2, 4 (default), 6 or 8 choices. All choices show the same person doing different actions. Ten questions per session, replay and first-attempt tracking per learner. Five completed sessions cover all 50 sentences. Images are bundled, decoded before play and cached. Sentence assets and original necktie SVG are MIT; OpenMoji artwork retains CC BY-SA 4.0. Browser voices depend on the learner’s device.
+
+Check! now speaks the correct headword after every selection and advances automatically after correct answers. Memo speaks each revealed card twice, then reads one of 50 random, object-specific celebrations when a pair is matched.

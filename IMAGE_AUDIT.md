@@ -46,3 +46,7 @@ Reviewed the object gallery through pictures 323 and all 50 original action scen
 ## Coded lesson cards — 26 October 2026
 
 Reviewed all 64 Halloween and 64 Teen talk cards in the lesson gallery. Halloween distinguishes the uncarved pumpkin from the jack-o’-lantern and the witch from the wizard. Original vectors provide a skeleton, witch, flying witch, walking zombie, howling wolf, pointed hat, wand, cauldron, mask, costume, lantern and smiling ghost. Spatial cards place the spider on the pumpkin/in its web and the owl in a tree. The abstract slang and greeting cards deliberately include short English meaning cues; they are picture-and-meaning cards, not literal photographs of actions. Teen captions distinguish the slang sense from literal cap, salty, cooking, ghosting and similar expressions. The source icons and adapted card layouts retain CC BY-SA 4.0 attribution.
+
+## Advanced lessons 1–3 — 26 October 2026
+
+The 192 new cards use original English definitions and contextual interpretations instead of pictorial guesses. Game cards render as responsive HTML text for legibility; matching SVGs are supplied for the teacher preview, image cache and portable lesson assets. Each four-choice set shares a focus group, so colours and category labels do not identify the answer. Reviewed all authored terms, definitions, Polish translations and contexts in content/advanced-1.tsv through advanced-3.tsv. All generated SVGs parse and their text is constrained to the available layout. Prior lesson images remain unchanged.

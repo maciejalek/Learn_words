@@ -20,3 +20,5 @@ The 291 additional object entries use OpenMoji SVGs with source URLs per entry i
 ## Coded lesson cards
 
 Halloween (1031) and Teen talk (67) each include 64 composed SVG teaching cards. OpenMoji icons are reused under CC BY-SA 4.0, with original backgrounds, symbols, layouts and meaning cues. All lesson card images are offered under CC BY-SA 4.0; individual icon codes and changes are recorded in topics.json. Sources are included in dist/assets/lessons/icons. Teaching examples and Polish translations are original. The descriptions of the 67 and skibidi memes were checked against Dictionary.com; they are paraphrased, not copied.
+
+Advanced lesson codes 1, 2 and 3 use entirely original vector meaning cards and original bilingual teaching text; no third-party artwork is used in these cards. These image cards are distributed under CC BY-SA 4.0 consistently with other lesson art. The HTML, CSS, scripts and authoring tools retain the project MIT license. Primary references consulted are listed in each advanced topic's metadata.

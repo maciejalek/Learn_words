@@ -54,3 +54,11 @@ Guess which? and Check! choose randomized same-category alternatives first, then
 Mixed play combines five object questions and five situation questions in a shuffled ten-question session. Each question keeps its own relevant alternatives. Wrong selections in Check!, Situations and Mixed play speak the selected picture’s word or sentence; replay repeats the target. Correct selections advance automatically.
 
 Every new Memo game selects eight random words, avoiding the preceding Memo game’s eight words when at least eight fresh words are available. The selection is saved with the learner’s session, including games ended early.
+
+## Sound recovery and gentler learning sets
+
+The app now starts a spoken sound check directly inside the first game tap, before database awaits. A shared SpeechPlayer retains active utterances, resumes paused engines, respects installed English voices, retries unavailable/network voices once with the platform default, cancels hung requests, and reports distinct failures through a persistent Enable sound / retry control. Check!, Situations and Mixed play do not auto-advance a correct response if its speech fails; retry can finish that response. Learn pauses if speech fails. Device speech support is still required; successful hardware playback must be checked on affected devices.
+
+Settings offers First words (40 familiar words), Everyday (129 familiar words; the default for existing and new learners), and Challenge (all 323). Levels apply to targets and distractors in object games, Memo, Learn, Mixed play and Show me. Interleaved topic ordering avoids long initial fruit-only sessions. No dictionary entries or progress histories are deleted.
+
+Show me is a score-free, untimed exploration mode: tap a labelled picture to hear it twice, browse 12 pictures per page or filter by topic. Exploration taps are saved as exposures for the active learner.

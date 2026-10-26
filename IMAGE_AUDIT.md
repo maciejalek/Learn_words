@@ -42,3 +42,7 @@ Cup is an original simple SVG. Fork, plate and bowl are adapted from OpenMoji, d
 ## Expansion review — 26 October 2026
 
 Reviewed the object gallery through pictures 323 and all 50 original action scenes. Corrected plural labels for grapes, cherries, blueberries, pancakes and waffles; the collared shirt is named polo shirt and the handwear is named mittens. The necktie is a standalone original SVG. All 373 current assets are bundled and decoded before play. Sentence pictures show 25 actions with a girl and a boy, with boys and girls mixed among answer options. The original 32-entry review above is retained.
+
+## Coded lesson cards — 26 October 2026
+
+Reviewed all 64 Halloween and 64 Teen talk cards in the lesson gallery. Halloween distinguishes the uncarved pumpkin from the jack-o’-lantern and the witch from the wizard. Original vectors provide a skeleton, witch, flying witch, walking zombie, howling wolf, pointed hat, wand, cauldron, mask, costume, lantern and smiling ghost. Spatial cards place the spider on the pumpkin/in its web and the owl in a tree. The abstract slang and greeting cards deliberately include short English meaning cues; they are picture-and-meaning cards, not literal photographs of actions. Teen captions distinguish the slang sense from literal cap, salty, cooking, ghosting and similar expressions. The source icons and adapted card layouts retain CC BY-SA 4.0 attribution.

@@ -1,0 +1,2317 @@
+[
+  {
+    "code": "1031",
+    "title": "Halloween",
+    "note": "Friendly Halloween vocabulary. Some phrase cards include a short meaning cue.",
+    "entries": [
+      {
+        "id": "topic_1031_01",
+        "word": "pumpkin",
+        "meaning_pl": "dynia",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_01.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_02",
+        "word": "jack-o'-lantern",
+        "meaning_pl": "lampion z dyni",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_02.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F383"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_03",
+        "word": "ghost",
+        "meaning_pl": "duch",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_03.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_04",
+        "word": "witch",
+        "meaning_pl": "czarownica",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_04.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_05",
+        "word": "wizard",
+        "meaning_pl": "czarodziej",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_05.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9D9-200D-2642-FE0F"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_06",
+        "word": "vampire",
+        "meaning_pl": "wampir",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_06.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9DB"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_07",
+        "word": "zombie",
+        "meaning_pl": "zombi",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_07.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9DF"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_08",
+        "word": "monster",
+        "meaning_pl": "potwór",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_08.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47E"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_09",
+        "word": "skeleton",
+        "meaning_pl": "szkielet",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_09.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_10",
+        "word": "skull",
+        "meaning_pl": "czaszka",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_10.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F480"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_11",
+        "word": "bat",
+        "meaning_pl": "nietoperz",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_11.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F987"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_12",
+        "word": "black cat",
+        "meaning_pl": "czarny kot",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_12.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F408-200D-2B1B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_13",
+        "word": "spider",
+        "meaning_pl": "pająk",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_13.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F577"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_14",
+        "word": "spider web",
+        "meaning_pl": "pajęczyna",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_14.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F578"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_15",
+        "word": "owl",
+        "meaning_pl": "sowa",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_15.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F989"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_16",
+        "word": "wolf",
+        "meaning_pl": "wilk",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_16.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F43A"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_17",
+        "word": "broom",
+        "meaning_pl": "miotła",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_17.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9F9"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_18",
+        "word": "witch's hat",
+        "meaning_pl": "kapelusz czarownicy",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_18.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_19",
+        "word": "magic wand",
+        "meaning_pl": "różdżka",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_19.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_20",
+        "word": "cauldron",
+        "meaning_pl": "kociołek",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_20.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_21",
+        "word": "candle",
+        "meaning_pl": "świeczka",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_21.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F56F"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_22",
+        "word": "lantern",
+        "meaning_pl": "latarnia",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_22.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_23",
+        "word": "mask",
+        "meaning_pl": "maska",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_23.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_24",
+        "word": "costume",
+        "meaning_pl": "kostium",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_24.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_25",
+        "word": "candy",
+        "meaning_pl": "cukierek",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_25.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36C"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_26",
+        "word": "lollipop",
+        "meaning_pl": "lizak",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_26.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36D"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_27",
+        "word": "candy bag",
+        "meaning_pl": "torba na cukierki",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_27.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_28",
+        "word": "haunted house",
+        "meaning_pl": "nawiedzony dom",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_28.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_29",
+        "word": "full moon",
+        "meaning_pl": "pełnia księżyca",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_29.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F315"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_30",
+        "word": "coffin",
+        "meaning_pl": "trumna",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_30.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "26B0"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_31",
+        "word": "gravestone",
+        "meaning_pl": "nagrobek",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_31.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_32",
+        "word": "bone",
+        "meaning_pl": "kość",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_32.svg",
+        "gloss": "",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9B4"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_33",
+        "word": "The ghost is smiling.",
+        "meaning_pl": "Duch się uśmiecha.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_33.svg",
+        "gloss": "A happy ghost",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_34",
+        "word": "The witch is flying.",
+        "meaning_pl": "Czarownica leci.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_34.svg",
+        "gloss": "A witch on a broom",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_35",
+        "word": "The bat is flying.",
+        "meaning_pl": "Nietoperz leci.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_35.svg",
+        "gloss": "A bat in the air",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F987"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_36",
+        "word": "The spider is on the pumpkin.",
+        "meaning_pl": "Pająk jest na dyni.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_36.svg",
+        "gloss": "Spider above a pumpkin",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F577",
+          "1F383"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_37",
+        "word": "The cat is under the moon.",
+        "meaning_pl": "Kot jest pod księżycem.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_37.svg",
+        "gloss": "Moon above a black cat",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F315",
+          "1F408-200D-2B1B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_38",
+        "word": "The candle is glowing.",
+        "meaning_pl": "Świeczka świeci.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_38.svg",
+        "gloss": "A little flame gives light",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F56F"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_39",
+        "word": "The owl is in the tree.",
+        "meaning_pl": "Sowa jest na drzewie.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_39.svg",
+        "gloss": "An owl among branches",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F989",
+          "1F333"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_40",
+        "word": "The wolf is howling.",
+        "meaning_pl": "Wilk wyje.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_40.svg",
+        "gloss": "A wolf calls to the moon",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_41",
+        "word": "The door is open.",
+        "meaning_pl": "Drzwi są otwarte.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_41.svg",
+        "gloss": "An open doorway",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_42",
+        "word": "The monster is dancing.",
+        "meaning_pl": "Potwór tańczy.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_42.svg",
+        "gloss": "Monster dance party",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47E",
+          "1F3B5"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_43",
+        "word": "The zombie is walking.",
+        "meaning_pl": "Zombi idzie.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_43.svg",
+        "gloss": "A zombie takes slow steps",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_44",
+        "word": "The vampire has a cape.",
+        "meaning_pl": "Wampir ma pelerynę.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_44.svg",
+        "gloss": "A vampire in a dark cape",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9DB"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_45",
+        "word": "The skeleton is waving.",
+        "meaning_pl": "Szkielet macha ręką.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_45.svg",
+        "gloss": "A bony hello",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F44B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_46",
+        "word": "The pumpkin is orange.",
+        "meaning_pl": "Dynia jest pomarańczowa.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_46.svg",
+        "gloss": "An orange autumn vegetable",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_47",
+        "word": "The hat is purple.",
+        "meaning_pl": "Kapelusz jest fioletowy.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_47.svg",
+        "gloss": "Purple pointed headwear",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_48",
+        "word": "There are two ghosts.",
+        "meaning_pl": "Są dwa duchy.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_48.svg",
+        "gloss": "Count the ghosts: 2",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47B",
+          "1F47B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_49",
+        "word": "There are three bats.",
+        "meaning_pl": "Są trzy nietoperze.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_49.svg",
+        "gloss": "Count the bats: 3",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F987",
+          "1F987",
+          "1F987"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_50",
+        "word": "There is a spider in the web.",
+        "meaning_pl": "W pajęczynie jest pająk.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_50.svg",
+        "gloss": "A spider in its silky home",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F578",
+          "1F577"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_51",
+        "word": "Put on your mask.",
+        "meaning_pl": "Załóż maskę.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_51.svg",
+        "gloss": "Cover your face for the party",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_52",
+        "word": "Wear a costume.",
+        "meaning_pl": "Załóż kostium.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_52.svg",
+        "gloss": "Dress up as someone else",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_53",
+        "word": "Carry a lantern.",
+        "meaning_pl": "Nieś latarnię.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_53.svg",
+        "gloss": "Take a light with you",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_54",
+        "word": "Knock on the door.",
+        "meaning_pl": "Zapukaj do drzwi.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_54.svg",
+        "gloss": "Tap at the entrance",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F44A",
+          "1F6AA"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_55",
+        "word": "Give me a treat, please.",
+        "meaning_pl": "Daj mi smakołyk, proszę.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_55.svg",
+        "gloss": "Ask politely for a sweet",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36C",
+          "1F64F"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_56",
+        "word": "Thank you for the candy.",
+        "meaning_pl": "Dziękuję za cukierki.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_56.svg",
+        "gloss": "Be grateful for the sweets",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36C",
+          "1F49B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_57",
+        "word": "I have a candy bag.",
+        "meaning_pl": "Mam torbę na cukierki.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_57.svg",
+        "gloss": "My bag is ready for sweets",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_58",
+        "word": "I am scared.",
+        "meaning_pl": "Boję się.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_58.svg",
+        "gloss": "Feeling frightened",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F628"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_59",
+        "word": "I am not scared.",
+        "meaning_pl": "Nie boję się.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_59.svg",
+        "gloss": "Feeling brave near a ghost",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4AA",
+          "1F47B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_60",
+        "word": "Let's carve a pumpkin.",
+        "meaning_pl": "Wydrążmy dynię.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_60.svg",
+        "gloss": "Make a pumpkin lantern",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F52A"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_61",
+        "word": "Let's decorate the house.",
+        "meaning_pl": "Udekorujmy dom.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_61.svg",
+        "gloss": "Make the house festive",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F388"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_62",
+        "word": "Happy Halloween!",
+        "meaning_pl": "Wesołego Halloween!",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_62.svg",
+        "gloss": "A greeting for October 31",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F383",
+          "1F389"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_63",
+        "word": "Trick or treat!",
+        "meaning_pl": "Cukierek albo psikus!",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_63.svg",
+        "gloss": "What to say at the door",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36C",
+          "1F47B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_1031_64",
+        "word": "Boo!",
+        "meaning_pl": "Buu!",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "1031",
+        "image": "assets/lessons/topic_1031_64.svg",
+        "gloss": "A playful ghost surprise",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47B",
+          "1F4A5"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      }
+    ],
+    "bundle": "assets/lessons/pictures.1031.b9df45b4051e.json"
+  },
+  {
+    "code": "67",
+    "title": "Teen talk: secret level",
+    "note": "Informal, playful internet English. These are jokes and slang, not formal English. Meme words may have no fixed meaning.",
+    "entries": [
+      {
+        "id": "topic_67_01",
+        "word": "six seven",
+        "meaning_pl": "six seven — absurdalny mem, bez stałego znaczenia",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_01.svg",
+        "gloss": "An internet meme: six and seven",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_02",
+        "word": "skibidi",
+        "meaning_pl": "skibidi — nonsensowne słowo z memów",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_02.svg",
+        "gloss": "A silly meme word; no fixed meaning",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F300"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_03",
+        "word": "rizz",
+        "meaning_pl": "urok osobisty; charyzma",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_03.svg",
+        "gloss": "Charm and confidence",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F60E"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_04",
+        "word": "aura",
+        "meaning_pl": "wrażenie pewności siebie i fajności",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_04.svg",
+        "gloss": "Your imagined coolness score",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "2728"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_05",
+        "word": "sus",
+        "meaning_pl": "podejrzany",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_05.svg",
+        "gloss": "Something seems suspicious",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F928"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_06",
+        "word": "no cap",
+        "meaning_pl": "bez ściemy; serio",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_06.svg",
+        "gloss": "Honestly; no lie",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4AC"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_07",
+        "word": "cap",
+        "meaning_pl": "ściema; kłamstwo",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_07.svg",
+        "gloss": "A lie, in slang",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9E2"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_08",
+        "word": "mid",
+        "meaning_pl": "przeciętny; bez szału",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_08.svg",
+        "gloss": "Only average; not amazing",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F610"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_09",
+        "word": "cringe",
+        "meaning_pl": "żenujący; niezręczny",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_09.svg",
+        "gloss": "Embarrassing to watch",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F62C"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_10",
+        "word": "slay",
+        "meaning_pl": "świetnie sobie radzić; zachwycać",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_10.svg",
+        "gloss": "Do something brilliantly",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F31F"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_11",
+        "word": "ate",
+        "meaning_pl": "wypadł lub wypadła świetnie",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_11.svg",
+        "gloss": "Did an excellent job",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3C6"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_12",
+        "word": "cooked",
+        "meaning_pl": "w tarapatach; wykończony",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_12.svg",
+        "gloss": "In trouble or exhausted",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F525"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_13",
+        "word": "cooking",
+        "meaning_pl": "świetnie sobie radzić; tworzyć coś dobrego",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_13.svg",
+        "gloss": "Doing something really well",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F468-200D-1F373"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_14",
+        "word": "locked in",
+        "meaning_pl": "maksymalnie skupiony",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_14.svg",
+        "gloss": "Fully focused",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3AF"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_15",
+        "word": "vibe",
+        "meaning_pl": "klimat; nastrój",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_15.svg",
+        "gloss": "The feeling of a place or moment",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3B5"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_16",
+        "word": "bestie",
+        "meaning_pl": "najlepszy przyjaciel lub przyjaciółka",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_16.svg",
+        "gloss": "A very close friend",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F46B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_17",
+        "word": "glow-up",
+        "meaning_pl": "korzystna przemiana",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_17.svg",
+        "gloss": "A positive transformation",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F98B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_18",
+        "word": "flex",
+        "meaning_pl": "chwalić się; popisywać się",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_18.svg",
+        "gloss": "Show off what you have",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4AA"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_19",
+        "word": "salty",
+        "meaning_pl": "poirytowany po porażce",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_19.svg",
+        "gloss": "Annoyed about losing",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9C2"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_20",
+        "word": "extra",
+        "meaning_pl": "przesadny; robiący za dużo",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_20.svg",
+        "gloss": "Over the top",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F386"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_21",
+        "word": "low-key",
+        "meaning_pl": "trochę; po cichu; dyskretnie",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_21.svg",
+        "gloss": "Quietly or a little",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F92B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_22",
+        "word": "high-key",
+        "meaning_pl": "otwarcie; zdecydowanie",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_22.svg",
+        "gloss": "Openly and very much",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4E3"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_23",
+        "word": "mood",
+        "meaning_pl": "to samo czuję; utożsamiam się z tym",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_23.svg",
+        "gloss": "That is exactly how I feel",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F634"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_24",
+        "word": "plot twist",
+        "meaning_pl": "nieoczekiwany zwrot akcji",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_24.svg",
+        "gloss": "An unexpected turn of events",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F500"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_25",
+        "word": "side quest",
+        "meaning_pl": "poboczne zadanie; mała dodatkowa przygoda",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_25.svg",
+        "gloss": "An extra little adventure",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F5FA"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_26",
+        "word": "ghosting",
+        "meaning_pl": "nagłe urwanie kontaktu bez wyjaśnienia",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_26.svg",
+        "gloss": "Suddenly stop replying to someone",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_27",
+        "word": "FOMO",
+        "meaning_pl": "obawa, że omija nas coś ciekawego",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_27.svg",
+        "gloss": "Fear of missing out",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4F1"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_28",
+        "word": "hype",
+        "meaning_pl": "duże podekscytowanie",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_28.svg",
+        "gloss": "A lot of excitement",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F389"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_29",
+        "word": "bet",
+        "meaning_pl": "jasne; umowa stoi",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_29.svg",
+        "gloss": "Okay; agreed",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F91D"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_30",
+        "word": "goated",
+        "meaning_pl": "legendarny; jeden z najlepszych",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_30.svg",
+        "gloss": "One of the greatest ever",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F410",
+          "1F3C6"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_31",
+        "word": "brainrot",
+        "meaning_pl": "absurdalny humor z ciągle oglądanych memów",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_31.svg",
+        "gloss": "Silly, repetitive online humour",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9E0",
+          "1F4F1"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_32",
+        "word": "touch grass",
+        "meaning_pl": "odejdź od ekranu i wyjdź na dwór",
+        "kind": "word",
+        "person": null,
+        "category": "lesson-words",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_32.svg",
+        "gloss": "Take a break from the internet",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F331"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_33",
+        "word": "I forgot my homework. I'm cooked.",
+        "meaning_pl": "Zapomniałem pracy domowej. Mam przechlapane.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_33.svg",
+        "gloss": "Homework forgotten; trouble ahead",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4DA",
+          "1F525"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_34",
+        "word": "Let me cook.",
+        "meaning_pl": "Daj mi działać; zaraz coś wymyślę.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_34.svg",
+        "gloss": "Give my idea a chance",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F468-200D-1F373"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_35",
+        "word": "Time to lock in.",
+        "meaning_pl": "Czas się skupić.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_35.svg",
+        "gloss": "Focus on the task now",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3AF",
+          "1F4DA"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_36",
+        "word": "That answer was sus.",
+        "meaning_pl": "Ta odpowiedź była podejrzana.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_36.svg",
+        "gloss": "The answer seems doubtful",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F928"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_37",
+        "word": "My Wi-Fi has left the chat.",
+        "meaning_pl": "Moje Wi-Fi opuściło czat.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_37.svg",
+        "gloss": "The internet stopped working",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4F6",
+          "1F6AB"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_38",
+        "word": "My phone is on one percent.",
+        "meaning_pl": "Mój telefon ma jeden procent baterii.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_38.svg",
+        "gloss": "Almost no battery left",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1FAAB",
+          "1F4F1"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_39",
+        "word": "I need a snack break.",
+        "meaning_pl": "Potrzebuję przerwy na przekąskę.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_39.svg",
+        "gloss": "Pause for a little food",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36A"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_40",
+        "word": "The teacher said page sixty-seven.",
+        "meaning_pl": "Nauczyciel powiedział: strona sześćdziesiąt siedem.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_40.svg",
+        "gloss": "A classroom number becomes a meme",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4D6"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_41",
+        "word": "My brain is buffering.",
+        "meaning_pl": "Mój mózg się ładuje.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_41.svg",
+        "gloss": "I need a moment to think",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F9E0",
+          "23F3"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_42",
+        "word": "That was a plot twist.",
+        "meaning_pl": "Ale zwrot akcji.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_42.svg",
+        "gloss": "Something unexpected just happened",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F500"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_43",
+        "word": "We are on a side quest.",
+        "meaning_pl": "Robimy poboczną misję.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_43.svg",
+        "gloss": "A small detour from the main plan",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F5FA",
+          "1F9ED"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_44",
+        "word": "I touched grass. It was weird.",
+        "meaning_pl": "Wyszedłem na dwór. Dziwne uczucie.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_44.svg",
+        "gloss": "An internet fan tries the outdoors",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F331",
+          "1F633"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_45",
+        "word": "No cap, that was amazing.",
+        "meaning_pl": "Bez ściemy, to było niesamowite.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_45.svg",
+        "gloss": "Honestly, that was excellent",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F31F",
+          "1F4AC"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_46",
+        "word": "This playlist is a vibe.",
+        "meaning_pl": "Ta playlista ma klimat.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_46.svg",
+        "gloss": "The music creates a great mood",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3A7",
+          "1F3B5"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_47",
+        "word": "Bestie, we need a plan.",
+        "meaning_pl": "Przyjacielu, potrzebujemy planu.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_47.svg",
+        "gloss": "Ask your closest friend to plan",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F46B",
+          "1F4DD"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_48",
+        "word": "That outfit is a slay.",
+        "meaning_pl": "Ta stylówka jest świetna.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_48.svg",
+        "gloss": "A brilliant choice of clothes",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F457",
+          "2728"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_49",
+        "word": "You ate that presentation.",
+        "meaning_pl": "Świetnie poszła ci prezentacja.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_49.svg",
+        "gloss": "Your presentation was excellent",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3C6",
+          "1F4CA"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_50",
+        "word": "I lost all my aura points.",
+        "meaning_pl": "Straciłem wszystkie punkty aury.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_50.svg",
+        "gloss": "A joking loss of coolness",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "2728",
+          "1F4C9"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_51",
+        "word": "Walking into the wrong classroom is cringe.",
+        "meaning_pl": "Wejście do złej klasy jest żenujące.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_51.svg",
+        "gloss": "An embarrassing classroom mistake",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3EB",
+          "1F62C"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_52",
+        "word": "I am low-key excited.",
+        "meaning_pl": "Trochę się cieszę.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_52.svg",
+        "gloss": "A little excited, quietly",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F92B",
+          "1F389"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_53",
+        "word": "I am high-key hungry.",
+        "meaning_pl": "Jestem naprawdę głodny.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_53.svg",
+        "gloss": "Very hungry and saying so",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4E3",
+          "1F354"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_54",
+        "word": "The group chat is pure chaos.",
+        "meaning_pl": "Na czacie grupowym jest totalny chaos.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_54.svg",
+        "gloss": "Everyone is messaging at once",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4AC",
+          "1F300"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_55",
+        "word": "My alarm clock is my final boss.",
+        "meaning_pl": "Mój budzik jest moim finałowym bossem.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_55.svg",
+        "gloss": "Getting up is the hardest challenge",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "23F0",
+          "1F47E"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_56",
+        "word": "That test was not the vibe.",
+        "meaning_pl": "Ten test zupełnie mi nie podszedł.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_56.svg",
+        "gloss": "The test was an unpleasant experience",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4DD",
+          "1F612"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_57",
+        "word": "We have homework? Plot twist!",
+        "meaning_pl": "Mamy pracę domową? Ale zwrot akcji!",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_57.svg",
+        "gloss": "Surprise: there is extra schoolwork",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4DA",
+          "1F500"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_58",
+        "word": "Do not ghost the group project.",
+        "meaning_pl": "Nie znikaj podczas projektu grupowego.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_58.svg",
+        "gloss": "Keep replying and help your team",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F47B",
+          "1F46B"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_59",
+        "word": "My backpack has its own side quests.",
+        "meaning_pl": "Mój plecak ma własne poboczne misje.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_59.svg",
+        "gloss": "A bag full of forgotten tasks",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F392",
+          "1F5FA"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_60",
+        "word": "I came for the snacks.",
+        "meaning_pl": "Przyszedłem dla przekąsek.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_60.svg",
+        "gloss": "Food was my reason for coming",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36A",
+          "1F354"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_61",
+        "word": "I studied the wrong chapter.",
+        "meaning_pl": "Uczyłem się złego rozdziału.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_61.svg",
+        "gloss": "Prepared the wrong school material",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F4D6",
+          "1F62C"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_62",
+        "word": "The weekend needs a sequel.",
+        "meaning_pl": "Weekend potrzebuje kontynuacji.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_62.svg",
+        "gloss": "I wish the weekend were longer",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F3AC",
+          "1F31E"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_63",
+        "word": "That is a legendary snack.",
+        "meaning_pl": "To legendarna przekąska.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_63.svg",
+        "gloss": "This little treat is outstanding",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F36A",
+          "1F3C6"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      },
+      {
+        "id": "topic_67_64",
+        "word": "Six seven! Nobody knows why.",
+        "meaning_pl": "Six seven! Nikt nie wie dlaczego.",
+        "kind": "sentence",
+        "person": "lesson",
+        "category": "lesson-phrases",
+        "topicCode": "67",
+        "image": "assets/lessons/topic_67_64.svg",
+        "gloss": "A silly catchphrase with no fixed meaning",
+        "source": "OpenMoji with original teaching layout and captions",
+        "license": "CC-BY-SA-4.0",
+        "source_codes": [
+          "1F937"
+        ],
+        "source_url": "https://github.com/hfg-gmuend/openmoji",
+        "changes": "Icons composed into teaching cards; original captions and vector symbols added."
+      }
+    ],
+    "bundle": "assets/lessons/pictures.67.08be677cb870.json"
+  }
+]

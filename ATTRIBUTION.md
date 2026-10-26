@@ -16,3 +16,7 @@ OpenMoji SVG artwork in this application is redistributed under that license. Th
 All 32 currently used images were visually reviewed on 2026-10-26; see IMAGE_AUDIT.md. Detailed asset codes and changes are in `dist/words.json`. Original source SVGs are retained for provenance.
 
 The 291 additional object entries use OpenMoji SVGs with source URLs per entry in words.json, except the original standalone necktie SVG (MIT). The 50 action scene SVGs in dist/assets/scenes are original project artwork, MIT licensed. No third-party audio files are included.
+
+## Coded lesson cards
+
+Halloween (1031) and Teen talk (67) each include 64 composed SVG teaching cards. OpenMoji icons are reused under CC BY-SA 4.0, with original backgrounds, symbols, layouts and meaning cues. All lesson card images are offered under CC BY-SA 4.0; individual icon codes and changes are recorded in topics.json. Sources are included in dist/assets/lessons/icons. Teaching examples and Polish translations are original. The descriptions of the 67 and skibidi memes were checked against Dictionary.com; they are paraphrased, not copied.

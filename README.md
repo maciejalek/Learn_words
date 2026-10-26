@@ -62,3 +62,9 @@ The app now starts a spoken sound check directly inside the first game tap, befo
 Settings offers First words (40 familiar words), Everyday (129 familiar words; the default for existing and new learners), and Challenge (all 323). Levels apply to targets and distractors in object games, Memo, Learn, Mixed play and Show me. Interleaved topic ordering avoids long initial fruit-only sessions. No dictionary entries or progress histories are deleted.
 
 Show me is a score-free, untimed exploration mode: tap a labelled picture to hear it twice, browse 12 pictures per page or filter by topic. Exploration taps are saved as exposures for the active learner.
+
+## Teacher lesson codes
+
+Enter a code on the home page. 1031 opens Halloween: 32 words plus 32 phrases/situations. 67 opens the unlisted Teen talk Easter egg: 32 informal words plus 32 humorous situations. Each learner retains their selected lesson until Leave lesson is used. The selection overrides normal word levels in every mode. No general vocabulary or normal situation targets enter a coded lesson; Show me covers all 64 entries. Prior progress is retained, and sessions/events include the lesson code. Topics are unlisted learning sets, not private or password-protected resources.
+
+Lesson art loads and caches separately on entry. Source icons, composed SVG cards, metadata and bilingual CSV teacher lists are included in dist/assets/lessons, dist/topics.json and dist/lessons. Lesson lists are available at lesson.html?code=1031 or lesson.html?code=67. Phrase and slang cards use meaning cues as well as icons; these are not all literal action scenes. The teen set is playful, informal English, not an academic register.

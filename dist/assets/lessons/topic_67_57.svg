@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220"><rect width="320" height="220" rx="24" fill="#f5f0fd"/><rect x="18" y="200" width="284" height="3" rx="1" fill="#9b82c4"/><svg x="14" y="18" width="145" height="165" viewBox="0 0 72 72">
+  <g id="color">
+    <path fill="#fff" d="M61.2167,21.6411,37.911,15.0386a1.0068,1.0068,0,0,0-.5537.0019l-22.5947,6.627a.9484.9484,0,0,0-.1365.0719,5.3829,5.3829,0,0,0-1.8343,9.5426,5.3642,5.3642,0,0,0,.0663,8.6968,5.3776,5.3776,0,0,0,1.4856,9.5022l23.0146,6.7128a1.0034,1.0034,0,0,0,.5547.002l23.3057-6.6514a1.0008,1.0008,0,0,0,.7255-.9619V22.603A1,1,0,0,0,61.2167,21.6411Z"/>
+    <polygon fill="#92d3f5" points="37.638 15.976 60.944 22.579 37.638 29.231 15.044 22.603 37.638 15.976"/>
+    <path fill="#61b2e4" d="M15.0823,24.7275,37.0756,31.174a2,2,0,0,0,1.1113.0039l23.2947-6.7653a.613.613,0,0,0,.442-.5794l.0189-1.2508L37.6381,29.2547,15.08,22.6425a4.4,4.4,0,0,0-.4554,8.4813l23.014,6.713,24.2115-6.91.04-1.2423a.6255.6255,0,0,0-.7968-.6215L37.6442,35.7552l-22.4226-6.54a2.4,2.4,0,0,1-.1393-4.4873"/>
+    <path fill="#d22f27" d="M15.0823,33.4092l21.9933,6.4465a1.9988,1.9988,0,0,0,1.1113.004l23.2947-6.7653a.6131.6131,0,0,0,.442-.5794l.0189-1.2508L37.6381,37.9365,15.08,31.3243a4.4,4.4,0,0,0-.4554,8.4813l23.014,6.713,24.2115-6.91.04-1.2424a.6254.6254,0,0,0-.7968-.6214L37.6442,44.437l-22.4226-6.54a2.4,2.4,0,0,1-.1393-4.4873"/>
+    <path fill="#5c9e31" d="M15.0823,42.1549l21.9933,6.4465a2,2,0,0,0,1.1113.0039L61.4816,41.84a.613.613,0,0,0,.442-.5794l.0189-1.2507L37.6381,46.6821,15.08,40.07a4.4,4.4,0,0,0-.4554,8.4813l23.014,6.713,24.2115-6.91.04-1.2424a.6254.6254,0,0,0-.7968-.6214L37.6442,53.1827l-22.4226-6.54a2.4,2.4,0,0,1-.1393-4.4873"/>
+    <polygon fill="#61b2e4" points="44.32 17.794 38.594 16.172 16 22.799 21.81 24.504 44.32 17.794"/>
+  </g>
+  <g id="line">
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="37.638 16 60.944 22.603 37.638 29.255 15.044 22.627 37.638 16"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.08,22.6425a4.4,4.4,0,0,0-.4554,8.4813l23.0141,6.713,23.3057-6.6516"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.08,31.2942a4.4,4.4,0,0,0-.4554,8.4813l23.0141,6.713,23.3057-6.6516"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.08,40.04a4.4,4.4,0,0,0-.4554,8.4813l23.0141,6.713,23.3057-6.6516"/>
+  </g>
+</svg><svg x="161" y="18" width="145" height="165" viewBox="0 0 72 72">
+  <g id="color"/>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M40.3774,40.4583l6.9093,6.9332c1.6139,1.6195,4.0955,2.5668,6.7244,2.5668h12.7749"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M5,21.9583h12.7749c2.6288,0,5.1104,0.9473,6.7244,2.5668l7.0229,7.0473"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M5,49.9583h12.7749c2.6288,0,5.1104-0.9473,6.7244-2.5668l22.7874-22.8664c1.6139-1.6195,4.0955-2.5668,6.7244-2.5668h12.7749"/>
+    <line x1="66.7859" x2="58.6005" y1="21.9583" y2="13.7444" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="58.6005" x2="66.7859" y1="30.1722" y2="21.9583" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="66.7859" x2="58.6005" y1="49.9583" y2="41.7444" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="58.6005" x2="66.7859" y1="58.1722" y2="49.9583" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg></svg>

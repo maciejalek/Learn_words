@@ -52,3 +52,5 @@ Situations uses the same answer flow as Check!: every tap reads the correct sent
 Guess which? and Check! choose randomized same-category alternatives first, then related categories, and randomize the answer position.
 
 Mixed play combines five object questions and five situation questions in a shuffled ten-question session. Each question keeps its own relevant alternatives. Wrong selections in Check!, Situations and Mixed play speak the selected picture’s word or sentence; replay repeats the target. Correct selections advance automatically.
+
+Every new Memo game selects eight random words, avoiding the preceding Memo game’s eight words when at least eight fresh words are available. The selection is saved with the learner’s session, including games ended early.

@@ -32,3 +32,5 @@ export function sentenceOptions(scenes,target,count,round=0){
 }
 
 export function mixedPlan(words,sentences,offset=0,random=Math.random){return shuffle(Array.from({length:5},(_,i)=>[words[(offset+i)%words.length],sentences[(offset+i)%sentences.length]]).flat(),random);}
+
+export function memoWords(words,previousIds=[],random=Math.random){const previous=new Set(previousIds);const fresh=words.filter(w=>!previous.has(w.id));const pool=fresh.length>=8?fresh:words;return shuffle(pool,random).slice(0,8);}

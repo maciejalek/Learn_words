@@ -1,0 +1,486 @@
+[
+  {
+    "id": "en_0351",
+    "word": "apple",
+    "meaning_pl": "jabłko",
+    "image": "assets/apple.svg",
+    "source": "OpenMoji",
+    "source_code": "1F34E",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F34E.svg"
+  },
+  {
+    "id": "en_0353",
+    "word": "banana",
+    "meaning_pl": "banan",
+    "image": "assets/banana.svg",
+    "source": "OpenMoji",
+    "source_code": "1F34C",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F34C.svg"
+  },
+  {
+    "id": "en_0352",
+    "word": "pear",
+    "meaning_pl": "gruszka",
+    "image": "assets/pear.svg",
+    "source": "OpenMoji",
+    "source_code": "1F350",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F350.svg"
+  },
+  {
+    "id": "en_0354",
+    "word": "orange",
+    "meaning_pl": "pomarańcza",
+    "image": "assets/orange.svg",
+    "source": "OpenMoji",
+    "source_code": "1F34A",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F34A.svg"
+  },
+  {
+    "id": "en_0355",
+    "word": "lemon",
+    "meaning_pl": "cytryna",
+    "image": "assets/lemon.svg",
+    "source": "OpenMoji",
+    "source_code": "1F34B",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F34B.svg"
+  },
+  {
+    "id": "en_0358",
+    "word": "strawberry",
+    "meaning_pl": "truskawka",
+    "image": "assets/strawberry.svg",
+    "source": "OpenMoji",
+    "source_code": "1F353",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F353.svg"
+  },
+  {
+    "id": "en_0379",
+    "word": "carrot",
+    "meaning_pl": "marchewka",
+    "image": "assets/carrot.svg",
+    "source": "OpenMoji",
+    "source_code": "1F955",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F955.svg"
+  },
+  {
+    "id": "en_0378",
+    "word": "potato",
+    "meaning_pl": "ziemniak",
+    "image": "assets/potato.svg",
+    "source": "OpenMoji",
+    "source_code": "1F954",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F954.svg"
+  },
+  {
+    "id": "en_0377",
+    "word": "tomato",
+    "meaning_pl": "pomidor",
+    "image": "assets/tomato.svg",
+    "source": "OpenMoji",
+    "source_code": "1F345",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F345.svg"
+  },
+  {
+    "id": "en_0308",
+    "word": "bread",
+    "meaning_pl": "chleb",
+    "image": "assets/bread.svg",
+    "source": "OpenMoji",
+    "source_code": "1F35E",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F35E.svg"
+  },
+  {
+    "id": "en_0311",
+    "word": "cheese",
+    "meaning_pl": "ser",
+    "image": "assets/cheese.svg",
+    "source": "OpenMoji",
+    "source_code": "1F9C0",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C0.svg"
+  },
+  {
+    "id": "en_0315",
+    "word": "egg",
+    "meaning_pl": "jajko",
+    "image": "assets/egg.svg",
+    "source": "OpenMoji",
+    "source_code": "1F95A",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F95A.svg"
+  },
+  {
+    "id": "en_0342",
+    "word": "cookie",
+    "meaning_pl": "ciastko",
+    "image": "assets/cookie.svg",
+    "source": "OpenMoji",
+    "source_code": "1F36A",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F36A.svg"
+  },
+  {
+    "id": "en_0341",
+    "word": "cake",
+    "meaning_pl": "ciasto",
+    "image": "assets/cake.svg",
+    "source": "OpenMoji",
+    "source_code": "1F370",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F370.svg"
+  },
+  {
+    "id": "en_0283",
+    "word": "cup",
+    "meaning_pl": "kubek",
+    "image": "assets/cup-v2.svg",
+    "source": "Little Objects original vector",
+    "source_code": null,
+    "adaptation": "Replaced hot drink and saucer with an empty standalone cup.",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Replaced hot drink and saucer with an empty standalone cup."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": null
+  },
+  {
+    "id": "en_0288",
+    "word": "spoon",
+    "meaning_pl": "łyżka",
+    "image": "assets/spoon.svg",
+    "source": "OpenMoji",
+    "source_code": "1F944",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F944.svg"
+  },
+  {
+    "id": "en_0289",
+    "word": "fork",
+    "meaning_pl": "widelec",
+    "image": "assets/fork-v2.svg",
+    "source": "Little Objects (OpenMoji-derived)",
+    "source_code": "1F374",
+    "adaptation": "Removed separate knife; fork only, centered.",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Removed separate knife; fork only, centered."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F374.svg"
+  },
+  {
+    "id": "en_0290",
+    "word": "knife",
+    "meaning_pl": "nóż",
+    "image": "assets/knife.svg",
+    "source": "OpenMoji",
+    "source_code": "1F52A",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F52A.svg"
+  },
+  {
+    "id": "en_0286",
+    "word": "plate",
+    "meaning_pl": "talerz",
+    "image": "assets/plate-v2.svg",
+    "source": "Little Objects (OpenMoji-derived)",
+    "source_code": "1F37D",
+    "adaptation": "Removed fork and knife; empty plate only.",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Removed fork and knife; empty plate only."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F37D.svg"
+  },
+  {
+    "id": "en_0287",
+    "word": "bowl",
+    "meaning_pl": "miska",
+    "image": "assets/bowl-v2.svg",
+    "source": "Little Objects (OpenMoji-derived)",
+    "source_code": "1F963",
+    "adaptation": "Removed spoon; empty bowl only.",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Removed spoon; empty bowl only."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F963.svg"
+  },
+  {
+    "id": "en_0236",
+    "word": "chair",
+    "meaning_pl": "krzesło",
+    "image": "assets/chair.svg",
+    "source": "OpenMoji",
+    "source_code": "1FA91",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA91.svg"
+  },
+  {
+    "id": "en_0229",
+    "word": "bed",
+    "meaning_pl": "łóżko",
+    "image": "assets/bed.svg",
+    "source": "OpenMoji",
+    "source_code": "1F6CF",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6CF.svg"
+  },
+  {
+    "id": "en_0215",
+    "word": "door",
+    "meaning_pl": "drzwi",
+    "image": "assets/door.svg",
+    "source": "OpenMoji",
+    "source_code": "1F6AA",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6AA.svg"
+  },
+  {
+    "id": "en_0226",
+    "word": "key",
+    "meaning_pl": "klucz",
+    "image": "assets/key.svg",
+    "source": "OpenMoji",
+    "source_code": "1F511",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F511.svg"
+  },
+  {
+    "id": "en_0621",
+    "word": "book",
+    "meaning_pl": "książka",
+    "image": "assets/book.svg",
+    "source": "OpenMoji",
+    "source_code": "1F4D5",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4D5.svg"
+  },
+  {
+    "id": "en_0625",
+    "word": "pencil",
+    "meaning_pl": "ołówek",
+    "image": "assets/pencil.svg",
+    "source": "OpenMoji",
+    "source_code": "270F",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/270F.svg"
+  },
+  {
+    "id": "en_0298",
+    "word": "scissors",
+    "meaning_pl": "nożyczki",
+    "image": "assets/scissors.svg",
+    "source": "OpenMoji",
+    "source_code": "2702",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/2702.svg"
+  },
+  {
+    "id": "en_0609",
+    "word": "balloon",
+    "meaning_pl": "balon",
+    "image": "assets/balloon.svg",
+    "source": "OpenMoji",
+    "source_code": "1F388",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F388.svg"
+  },
+  {
+    "id": "en_0602",
+    "word": "ball",
+    "meaning_pl": "piłka",
+    "image": "assets/ball.svg",
+    "source": "OpenMoji",
+    "source_code": "26BD",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/26BD.svg"
+  },
+  {
+    "id": "en_0556",
+    "word": "bicycle",
+    "meaning_pl": "rower",
+    "image": "assets/bicycle.svg",
+    "source": "OpenMoji",
+    "source_code": "1F6B2",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6B2.svg"
+  },
+  {
+    "id": "en_0551",
+    "word": "car",
+    "meaning_pl": "samochód",
+    "image": "assets/car.svg",
+    "source": "OpenMoji",
+    "source_code": "1F697",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F697.svg"
+  },
+  {
+    "id": "en_0552",
+    "word": "bus",
+    "meaning_pl": "autobus",
+    "image": "assets/bus.svg",
+    "source": "OpenMoji",
+    "source_code": "1F68C",
+    "audit": {
+      "reviewed": "2026-10-26",
+      "status": "matches_word",
+      "note": "Reviewed rendered image: recognizable object consistent with English label."
+    },
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F68C.svg"
+  }
+]

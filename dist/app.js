@@ -35,22 +35,22 @@ function target(){const pool=current.mode==='sentences'?sentences:words;return p
 function renderQuestion(){const w=target(),count=profile.settings.tiles;current.options=current.mode==='sentences'?sentenceOptions(sentences,w,count,current.offset+current.round):optionsFor(words,w,count,current.round);current.attempt=0;current.answered=false;current.roundAt=performance.now();frame(activityTop(current.mode==='sentences'?'What is happening?':current.mode==='check'?'Check!':'Guess which?',current.mode==='check'?'Your first choice is what counts.':'Listen. Look. Choose a picture.',`${current.round+1} / 10`)+`<section class="stage"><div class="guess-heading"><button class="sound-btn" id="replay" aria-label="Listen again">◖))</button><div style="text-align:left"><h2>${current.mode==='sentences'?'Which scene?':'Which picture?'}</h2><p class="sub">Tap the speaker to hear it again.</p></div></div><div class="tiles ${current.mode==='sentences'?'scene-choices':''} ${count>4?'many':''}" id="choices">${current.options.map((item,i)=>`<button class="tile" data-answer="${item.id}" aria-label="Picture ${i+1}">${image(item,'')}<span class="feedback-mark"></span></button>`).join('')}</div><div class="feedback" id="feedback" aria-live="polite"></div><div class="progress-bar"><span style="width:${current.round*10}%"></span></div></section>`);bindFinish();$('#replay').onclick=()=>say(w.word,3);root.querySelectorAll('[data-answer]').forEach(b=>b.onclick=()=>answer(b));say(w.word,3);}
 async function answer(button){
  if(!current||current.answered||button.disabled)return;
- cancelSpeech();const s=current,token=epoch,w=target(),chosen=button.dataset.answer;
+ cancelSpeech();const s=current,token=epoch,w=target(),chosen=button.dataset.answer,automatic=['check','sentences'].includes(s.mode);
  s.attempt++;const correct=chosen===w.id,attempt=s.attempt;
  log('answer',w,{selectedWordId:chosen,correct,attempt,firstTry:attempt===1,latencyMs:Math.round(performance.now()-s.roundAt),tileCount:profile.settings.tiles,questionIndex:s.round});
  if(correct){
   s.answered=true;button.classList.add('correct');button.querySelector('.feedback-mark').textContent='✓';root.querySelectorAll('[data-answer]').forEach(b=>b.disabled=true);
   const message=s.mode==='check'?(attempt===1?'First try — remembered!':'Good practice. We’ll revisit this word.'):'You found it!';
-  $('#feedback').innerHTML=`<span>${message} <strong>${escape(w.word)}</strong></span>${s.mode==='check'?'':`<button class="primary" id="next-question">${s.round===9?'See results':'Next →'}</button>`}`;
+  $('#feedback').innerHTML=`<span>${message} <strong>${escape(w.word)}</strong></span>${automatic?'':`<button class="primary" id="next-question">${s.round===9?'See results':'Next →'}</button>`}`;
   const next=()=>{if(token!==epoch||current!==s)return;cancelSpeech();s.round++;if(s.round===10)finishSession(true);else renderQuestion();};
-  if(s.mode==='check'){
+  if(automatic){
    $('#replay').disabled=true;
    await say(w.word,1);await new Promise(r=>setTimeout(r,600));next();
   }else{$('#next-question').onclick=next;say(w.word,1);}
  }else{
   button.classList.add('wrong');button.disabled=true;button.querySelector('.feedback-mark').textContent='↻';
-  $('#feedback').textContent=s.mode==='check'?'Not this one. Listen to the correct answer and try again. Your first choice is recorded.':'Not this one. Listen and try another picture.';
-  if(s.mode==='check')await say(w.word,1);
+  $('#feedback').textContent=automatic?'Not this one. Listen to the correct answer and try again. Your first choice is recorded.':'Not this one. Listen and try another picture.';
+  if(automatic)await say(w.word,1);
  }
 }
 function renderMemo(){frame(activityTop('Memo','Turn a card. Listen. Find its friend.','0 / 8 pairs')+`<section class="stage"><p class="sub">Each card says its name twice. Find a pair for a little celebration.</p><div class="memory" id="memory-board">${current.deck.map((card,i)=>`<button class="mem-card" data-card="${i}" aria-label="Face-down card ${i+1}"><span>✳</span></button>`).join('')}</div><div class="feedback" id="memo-message" aria-live="polite">Pick any card to begin.</div><p class="sub" id="memo-moves">0 turns</p></section>`);bindFinish();root.querySelectorAll('[data-card]').forEach(b=>b.onclick=()=>flip(Number(b.dataset.card)));}

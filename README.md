@@ -48,3 +48,7 @@ Application code: MIT (see LICENSE). Artwork: CC BY-SA 4.0, with separate credit
 Check! now speaks the correct headword after every selection and advances automatically after correct answers. Memo speaks each revealed card twice, then reads one of 50 random, object-specific celebrations when a pair is matched.
 
 Situations uses the same answer flow as Check!: every tap reads the correct sentence; a correct selection automatically advances after speech, with no Next button. Wrong choices allow another try.
+
+Guess which? and Check! choose randomized same-category alternatives first, then related categories, and randomize the answer position.
+
+Mixed play combines five object questions and five situation questions in a shuffled ten-question session. Each question keeps its own relevant alternatives. Wrong selections in Check!, Situations and Mixed play speak the selected picture’s word or sentence; replay repeats the target. Correct selections advance automatically.

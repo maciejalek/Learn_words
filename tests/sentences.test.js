@@ -10,9 +10,9 @@ test('50 distinct sentences have bundled scene assets and balanced actors',()=>{
  for(const s of scenes){assert.ok(bundle[s.image]?.includes('<svg'));assert.equal(s.license,'MIT');}
  assert.equal(scenes.filter(s=>s.person==='girl').length,25);assert.equal(scenes.filter(s=>s.person==='boy').length,25);
 });
-test('sentence choices have exactly one match and require understanding the action',()=>{
+test('sentence choices have exactly one match and mix boys and girls',()=>{
  for(const s of scenes)for(const n of [2,4,6,8]){
- const options=sentenceOptions(scenes,s,n);assert.equal(options.length,n);assert.equal(new Set(options.map(x=>x.id)).size,n);assert.equal(options.filter(x=>x.id===s.id).length,1);assert.ok(options.every(x=>x.person===s.person));assert.equal(new Set(options.map(x=>x.action)).size,n);
+ const options=sentenceOptions(scenes,s,n);assert.equal(options.length,n);assert.equal(new Set(options.map(x=>x.id)).size,n);assert.equal(options.filter(x=>x.id===s.id).length,1);assert.equal(new Set(options.map(x=>x.person)).size,2);
  }
 });
 test('five completed ten-question sessions cover all sentences without gaps',()=>{

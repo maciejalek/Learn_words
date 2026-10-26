@@ -41,4 +41,4 @@ Cup is an original simple SVG. Fork, plate and bowl are adapted from OpenMoji, d
 
 ## Expansion review — 26 October 2026
 
-Reviewed the object gallery through pictures 323 and all 50 original action scenes. Corrected plural labels for grapes, cherries, blueberries, pancakes and waffles; the collared shirt is named polo shirt and the handwear is named mittens. The necktie is a standalone original SVG. All 373 current assets are bundled and decoded before play. Sentence pictures show 25 actions with a girl and a boy, with the same actor in every answer option. The original 32-entry review above is retained.
+Reviewed the object gallery through pictures 323 and all 50 original action scenes. Corrected plural labels for grapes, cherries, blueberries, pancakes and waffles; the collared shirt is named polo shirt and the handwear is named mittens. The necktie is a standalone original SVG. All 373 current assets are bundled and decoded before play. Sentence pictures show 25 actions with a girl and a boy, with boys and girls mixed among answer options. The original 32-entry review above is retained.

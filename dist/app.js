@@ -1,6 +1,6 @@
-import {pairCelebration} from './celebrations.js';
-import {preparePictures} from './pictures.js';
-import {learnPlan,optionsFor,shuffle,checkReport,summarize,sentenceOptions} from './logic.js';
+import {pairCelebration} from './celebrations.js?v=20261026-3';
+import {preparePictures} from './pictures.js?v=20261026-3';
+import {learnPlan,optionsFor,shuffle,checkReport,summarize,sentenceOptions} from './logic.js?v=20261026-3';
 import {openDB,put,all,uid} from './db.js';
 const $=s=>document.querySelector(s), root=$('#app');
 let pictureMemory,lastCelebration=-1;

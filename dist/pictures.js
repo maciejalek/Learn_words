@@ -1,4 +1,4 @@
-import {PICTURE_BUNDLE,PICTURE_VERSION} from './picture-config.js';
+import {PICTURE_BUNDLE,PICTURE_VERSION} from './picture-config.js?v=20261026-3';
 const CACHE_NAME='little-objects-pictures-v1';
 // Cache public illustrations only. No app pages, sessions, profiles or recordings.
 export async function loadPictureBundle({cacheStorage=globalThis.caches,fetcher=globalThis.fetch,base=globalThis.location?.href}={}){

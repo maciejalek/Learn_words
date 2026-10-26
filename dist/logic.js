@@ -4,8 +4,10 @@ export function optionsFor(words,target,count,round=0){const others=words.filter
 export function checkReport(events){const first=events.filter(e=>e.mode==='check'&&e.type==='answer'&&e.attempt===1);return {remembered:first.filter(e=>e.correct),practice:first.filter(e=>!e.correct),total:first.length};}
 export function summarize(events){const perWord={};for(const e of [...events].sort((a,b)=>(a.at||'').localeCompare(b.at||''))){if(!e.wordId)continue;const p=perWord[e.wordId]??={seen:0,answers:0,firstCorrect:0,firstWrong:0,lastSeen:null,lastCheck:null};if(e.type==='exposure')p.seen++;if(e.type==='answer'){p.answers++;if(e.attempt===1){if(e.correct)p.firstCorrect++;else p.firstWrong++;if(e.mode==='check')p.lastCheck={correct:e.correct,at:e.at};}}p.lastSeen=e.at;}return perWord;}
 
-// Same-person distractors require listening to the action, not just the noun.
+// Mix actors in every scene question while retaining exactly one sentence match.
 export function sentenceOptions(scenes,target,count,round=0){
- const others=scenes.filter(s=>s.person===target.person&&s.id!==target.id);
- return shuffle([target,...shuffle(others).slice(0,count-1)]);
+ const opposite=shuffle(scenes.filter(s=>s.person!==target.person));
+ const anchor=opposite[0];
+ const others=shuffle(scenes.filter(s=>s.id!==target.id&&s.id!==anchor.id));
+ return shuffle([target,anchor,...others.slice(0,count-2)]);
 }

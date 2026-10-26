@@ -482,5 +482,4370 @@
     },
     "license": "CC-BY-SA-4.0",
     "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F68C.svg"
+  },
+  {
+    "id": "en_0440",
+    "word": "monkey",
+    "meaning_pl": "małpa",
+    "image": "assets/objects/1F412.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F412",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F412.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0441",
+    "word": "gorilla",
+    "meaning_pl": "goryl",
+    "image": "assets/objects/1F98D.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F98D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F98D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9a7",
+    "word": "orangutan",
+    "meaning_pl": "orangutan",
+    "image": "assets/objects/1F9A7.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9A7",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A7.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0401",
+    "word": "dog",
+    "meaning_pl": "pies",
+    "image": "assets/objects/1F415.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F415",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F415.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f429",
+    "word": "poodle",
+    "meaning_pl": "pudel",
+    "image": "assets/objects/1F429.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F429",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F429.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0434",
+    "word": "wolf",
+    "meaning_pl": "wilk",
+    "image": "assets/objects/1F43A.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F43A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F43A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0435",
+    "word": "fox",
+    "meaning_pl": "lis",
+    "image": "assets/objects/1F98A.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F98A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F98A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f99d",
+    "word": "raccoon",
+    "meaning_pl": "szop",
+    "image": "assets/objects/1F99D.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F99D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F99D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0402",
+    "word": "cat",
+    "meaning_pl": "kot",
+    "image": "assets/objects/1F408.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F408",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F408.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0431",
+    "word": "lion",
+    "meaning_pl": "lew",
+    "image": "assets/objects/1F981.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F981",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F981.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0432",
+    "word": "tiger",
+    "meaning_pl": "tygrys",
+    "image": "assets/objects/1F405.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F405",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F405.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f406",
+    "word": "leopard",
+    "meaning_pl": "lampart",
+    "image": "assets/objects/1F406.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F406",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F406.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1face",
+    "word": "moose",
+    "meaning_pl": "łoś",
+    "image": "assets/objects/1FACE.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1FACE",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FACE.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0418",
+    "word": "donkey",
+    "meaning_pl": "osioł",
+    "image": "assets/objects/E001.svg",
+    "category": "animals-nature",
+    "source": "OpenMoji",
+    "source_code": "E001",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/E001.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0409",
+    "word": "horse",
+    "meaning_pl": "koń",
+    "image": "assets/objects/1F40E.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F40E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F40E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0439",
+    "word": "zebra",
+    "meaning_pl": "zebra",
+    "image": "assets/objects/1F993.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F993",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F993.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0436",
+    "word": "deer",
+    "meaning_pl": "jeleń",
+    "image": "assets/objects/1F98C.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F98C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F98C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9ac",
+    "word": "bison",
+    "meaning_pl": "bizon",
+    "image": "assets/objects/1F9AC.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9AC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9AC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0411",
+    "word": "cow",
+    "meaning_pl": "krowa",
+    "image": "assets/objects/1F404.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F404",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F404.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0414",
+    "word": "pig",
+    "meaning_pl": "świnia",
+    "image": "assets/objects/1F416.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F416",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F416.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f417",
+    "word": "boar",
+    "meaning_pl": "dzik",
+    "image": "assets/objects/1F417.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F417",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F417.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0417",
+    "word": "goat",
+    "meaning_pl": "koza",
+    "image": "assets/objects/1F410.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F410",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F410.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0444",
+    "word": "camel",
+    "meaning_pl": "wielbłąd",
+    "image": "assets/objects/1F42A.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F42A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F42A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f999",
+    "word": "llama",
+    "meaning_pl": "lama",
+    "image": "assets/objects/1F999.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F999",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F999.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0438",
+    "word": "giraffe",
+    "meaning_pl": "żyrafa",
+    "image": "assets/objects/1F992.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F992",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F992.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0437",
+    "word": "elephant",
+    "meaning_pl": "słoń",
+    "image": "assets/objects/1F418.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F418",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F418.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f98f",
+    "word": "rhinoceros",
+    "meaning_pl": "nosorożec",
+    "image": "assets/objects/1F98F.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F98F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F98F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f99b",
+    "word": "hippopotamus",
+    "meaning_pl": "hipopotam",
+    "image": "assets/objects/1F99B.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F99B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F99B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0407",
+    "word": "mouse",
+    "meaning_pl": "mysz",
+    "image": "assets/objects/1F401.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F401",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F401.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0408",
+    "word": "rat",
+    "meaning_pl": "szczur",
+    "image": "assets/objects/1F400.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F400",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F400.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0406",
+    "word": "hamster",
+    "meaning_pl": "chomik",
+    "image": "assets/objects/1F439.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F439",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F439.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0405",
+    "word": "rabbit",
+    "meaning_pl": "królik",
+    "image": "assets/objects/1F407.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F407",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F407.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f43f",
+    "word": "chipmunk",
+    "meaning_pl": "pręgowiec",
+    "image": "assets/objects/1F43F.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F43F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F43F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9ab",
+    "word": "beaver",
+    "meaning_pl": "bóbr",
+    "image": "assets/objects/1F9AB.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9AB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9AB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0449",
+    "word": "hedgehog",
+    "meaning_pl": "jeż",
+    "image": "assets/objects/1F994.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F994",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F994.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0450",
+    "word": "bat",
+    "meaning_pl": "nietoperz",
+    "image": "assets/objects/1F987.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F987",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F987.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0433",
+    "word": "bear",
+    "meaning_pl": "niedźwiedź",
+    "image": "assets/objects/1F43B.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F43B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F43B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0446",
+    "word": "koala",
+    "meaning_pl": "koala",
+    "image": "assets/objects/1F428.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F428",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F428.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0447",
+    "word": "panda",
+    "meaning_pl": "panda",
+    "image": "assets/objects/1F43C.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F43C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F43C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9a5",
+    "word": "sloth",
+    "meaning_pl": "leniwiec",
+    "image": "assets/objects/1F9A5.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9A5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9a6",
+    "word": "otter",
+    "meaning_pl": "wydra",
+    "image": "assets/objects/1F9A6.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9A6",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A6.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9a8",
+    "word": "skunk",
+    "meaning_pl": "skunks",
+    "image": "assets/objects/1F9A8.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9A8",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A8.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0445",
+    "word": "kangaroo",
+    "meaning_pl": "kangur",
+    "image": "assets/objects/1F998.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F998",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F998.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9a1",
+    "word": "badger",
+    "meaning_pl": "borsuk",
+    "image": "assets/objects/1F9A1.svg",
+    "category": "animal-mammal",
+    "source": "OpenMoji",
+    "source_code": "1F9A1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0423",
+    "word": "turkey",
+    "meaning_pl": "indyk",
+    "image": "assets/objects/1F983.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F983",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F983.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0419",
+    "word": "chicken",
+    "meaning_pl": "kura",
+    "image": "assets/objects/1F414.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F414",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F414.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0420",
+    "word": "rooster",
+    "meaning_pl": "kogut",
+    "image": "assets/objects/1F413.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F413",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F413.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0424",
+    "word": "bird",
+    "meaning_pl": "ptak",
+    "image": "assets/objects/1F426.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F426",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F426.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0428",
+    "word": "penguin",
+    "meaning_pl": "pingwin",
+    "image": "assets/objects/1F427.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F427",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F427.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f54a",
+    "word": "dove",
+    "meaning_pl": "gołąb",
+    "image": "assets/objects/1F54A.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F54A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F54A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0427",
+    "word": "eagle",
+    "meaning_pl": "orzeł",
+    "image": "assets/objects/1F985.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F985",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F985.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0421",
+    "word": "duck",
+    "meaning_pl": "kaczka",
+    "image": "assets/objects/1F986.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F986",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F986.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0429",
+    "word": "swan",
+    "meaning_pl": "łabędź",
+    "image": "assets/objects/1F9A2.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F9A2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0426",
+    "word": "owl",
+    "meaning_pl": "sowa",
+    "image": "assets/objects/1F989.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F989",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F989.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0483",
+    "word": "feather",
+    "meaning_pl": "pióro",
+    "image": "assets/objects/1FAB6.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1FAB6",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB6.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9a9",
+    "word": "flamingo",
+    "meaning_pl": "flaming",
+    "image": "assets/objects/1F9A9.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F9A9",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9A9.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f99a",
+    "word": "peacock",
+    "meaning_pl": "paw",
+    "image": "assets/objects/1F99A.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F99A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F99A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0425",
+    "word": "parrot",
+    "meaning_pl": "papuga",
+    "image": "assets/objects/1F99C.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1F99C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F99C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0484",
+    "word": "wing",
+    "meaning_pl": "skrzydło",
+    "image": "assets/objects/1FABD.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1FABD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FABD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0422",
+    "word": "goose",
+    "meaning_pl": "gęś",
+    "image": "assets/objects/1FABF.svg",
+    "category": "animal-bird",
+    "source": "OpenMoji",
+    "source_code": "1FABF",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FABF.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0468",
+    "word": "frog",
+    "meaning_pl": "żaba",
+    "image": "assets/objects/1F438.svg",
+    "category": "animal-amphibian",
+    "source": "OpenMoji",
+    "source_code": "1F438",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F438.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0465",
+    "word": "crocodile",
+    "meaning_pl": "krokodyl",
+    "image": "assets/objects/1F40A.svg",
+    "category": "animal-reptile",
+    "source": "OpenMoji",
+    "source_code": "1F40A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F40A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0463",
+    "word": "turtle",
+    "meaning_pl": "żółw",
+    "image": "assets/objects/1F422.svg",
+    "category": "animal-reptile",
+    "source": "OpenMoji",
+    "source_code": "1F422",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F422.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0467",
+    "word": "lizard",
+    "meaning_pl": "jaszczurka",
+    "image": "assets/objects/1F98E.svg",
+    "category": "animal-reptile",
+    "source": "OpenMoji",
+    "source_code": "1F98E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F98E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0466",
+    "word": "snake",
+    "meaning_pl": "wąż",
+    "image": "assets/objects/1F40D.svg",
+    "category": "animal-reptile",
+    "source": "OpenMoji",
+    "source_code": "1F40D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F40D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0453",
+    "word": "whale",
+    "meaning_pl": "wieloryb",
+    "image": "assets/objects/1F40B.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F40B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F40B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0454",
+    "word": "dolphin",
+    "meaning_pl": "delfin",
+    "image": "assets/objects/1F42C.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F42C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F42C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1facd",
+    "word": "orca",
+    "meaning_pl": "orka",
+    "image": "assets/objects/1FACD.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1FACD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FACD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0455",
+    "word": "seal",
+    "meaning_pl": "foka",
+    "image": "assets/objects/1F9AD.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F9AD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9AD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0451",
+    "word": "fish",
+    "meaning_pl": "ryba",
+    "image": "assets/objects/1F41F.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F41F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F41F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0452",
+    "word": "shark",
+    "meaning_pl": "rekin",
+    "image": "assets/objects/1F988.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F988",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F988.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0456",
+    "word": "octopus",
+    "meaning_pl": "ośmiornica",
+    "image": "assets/objects/1F419.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F419",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F419.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fab8",
+    "word": "coral",
+    "meaning_pl": "koral",
+    "image": "assets/objects/1FAB8.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1FAB8",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB8.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0460",
+    "word": "jellyfish",
+    "meaning_pl": "meduza",
+    "image": "assets/objects/1FABC.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1FABC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FABC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0457",
+    "word": "crab",
+    "meaning_pl": "krab",
+    "image": "assets/objects/1F980.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F980",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F980.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0458",
+    "word": "lobster",
+    "meaning_pl": "homar",
+    "image": "assets/objects/1F99E.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F99E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F99E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0459",
+    "word": "shrimp",
+    "meaning_pl": "krewetka",
+    "image": "assets/objects/1F990.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F990",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F990.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f991",
+    "word": "squid",
+    "meaning_pl": "kałamarnica",
+    "image": "assets/objects/1F991.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F991",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F991.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9aa",
+    "word": "oyster",
+    "meaning_pl": "ostryga",
+    "image": "assets/objects/1F9AA.svg",
+    "category": "animal-marine",
+    "source": "OpenMoji",
+    "source_code": "1F9AA",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9AA.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0470",
+    "word": "snail",
+    "meaning_pl": "ślimak",
+    "image": "assets/objects/1F40C.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F40C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F40C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0475",
+    "word": "butterfly",
+    "meaning_pl": "motyl",
+    "image": "assets/objects/1F98B.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F98B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F98B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0472",
+    "word": "ant",
+    "meaning_pl": "mrówka",
+    "image": "assets/objects/1F41C.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F41C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F41C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0473",
+    "word": "bee",
+    "meaning_pl": "pszczoła",
+    "image": "assets/objects/1F41D.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F41D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F41D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0477",
+    "word": "beetle",
+    "meaning_pl": "chrząszcz",
+    "image": "assets/objects/1FAB2.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1FAB2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0478",
+    "word": "ladybug",
+    "meaning_pl": "biedronka",
+    "image": "assets/objects/1F41E.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F41E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F41E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f997",
+    "word": "cricket",
+    "meaning_pl": "świerszcz",
+    "image": "assets/objects/1F997.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F997",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F997.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fab3",
+    "word": "cockroach",
+    "meaning_pl": "karaluch",
+    "image": "assets/objects/1FAB3.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1FAB3",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB3.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0479",
+    "word": "spider",
+    "meaning_pl": "pająk",
+    "image": "assets/objects/1F577.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F577",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F577.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f578",
+    "word": "spider web",
+    "meaning_pl": "pajęczyna",
+    "image": "assets/objects/1F578.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F578",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F578.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f982",
+    "word": "scorpion",
+    "meaning_pl": "skorpion",
+    "image": "assets/objects/1F982.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F982",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F982.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0480",
+    "word": "mosquito",
+    "meaning_pl": "komar",
+    "image": "assets/objects/1F99F.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1F99F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F99F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0676",
+    "word": "fly",
+    "meaning_pl": "mucha",
+    "image": "assets/objects/1FAB0.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1FAB0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB0.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0471",
+    "word": "worm",
+    "meaning_pl": "robak",
+    "image": "assets/objects/1FAB1.svg",
+    "category": "animal-bug",
+    "source": "OpenMoji",
+    "source_code": "1FAB1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0535",
+    "word": "rose",
+    "meaning_pl": "róża",
+    "image": "assets/objects/1F339.svg",
+    "category": "plant-flower",
+    "source": "OpenMoji",
+    "source_code": "1F339",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F339.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f33a",
+    "word": "hibiscus",
+    "meaning_pl": "hibiskus",
+    "image": "assets/objects/1F33A.svg",
+    "category": "plant-flower",
+    "source": "OpenMoji",
+    "source_code": "1F33A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F33A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f33b",
+    "word": "sunflower",
+    "meaning_pl": "słonecznik",
+    "image": "assets/objects/1F33B.svg",
+    "category": "plant-flower",
+    "source": "OpenMoji",
+    "source_code": "1F33B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F33B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f337",
+    "word": "tulip",
+    "meaning_pl": "tulipan",
+    "image": "assets/objects/1F337.svg",
+    "category": "plant-flower",
+    "source": "OpenMoji",
+    "source_code": "1F337",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F337.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fabb",
+    "word": "hyacinth",
+    "meaning_pl": "hiacynt",
+    "image": "assets/objects/1FABB.svg",
+    "category": "plant-flower",
+    "source": "OpenMoji",
+    "source_code": "1FABB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FABB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fab4",
+    "word": "potted plant",
+    "meaning_pl": "roślina doniczkowa",
+    "image": "assets/objects/1FAB4.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1FAB4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAB4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f332",
+    "word": "evergreen tree",
+    "meaning_pl": "drzewo iglaste",
+    "image": "assets/objects/1F332.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F332",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F332.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f333",
+    "word": "deciduous tree",
+    "meaning_pl": "drzewo liściaste",
+    "image": "assets/objects/1F333.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F333",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F333.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f334",
+    "word": "palm tree",
+    "meaning_pl": "palma",
+    "image": "assets/objects/1F334.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F334",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F334.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f335",
+    "word": "cactus",
+    "meaning_pl": "kaktus",
+    "image": "assets/objects/1F335.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F335",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F335.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f33f",
+    "word": "herb",
+    "meaning_pl": "zioło",
+    "image": "assets/objects/1F33F.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F33F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F33F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_2618",
+    "word": "shamrock",
+    "meaning_pl": "koniczyna",
+    "image": "assets/objects/2618.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "2618",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/2618.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f341",
+    "word": "maple leaf",
+    "meaning_pl": "liść klonu",
+    "image": "assets/objects/1F341.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F341",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F341.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0398",
+    "word": "mushroom",
+    "meaning_pl": "grzyb",
+    "image": "assets/objects/1F344.svg",
+    "category": "plant-other",
+    "source": "OpenMoji",
+    "source_code": "1F344",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F344.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0357",
+    "word": "grapes",
+    "meaning_pl": "winogrona",
+    "image": "assets/objects/1F347.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F347",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F347.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0366",
+    "word": "melon",
+    "meaning_pl": "melon",
+    "image": "assets/objects/1F348.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F348",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F348.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0367",
+    "word": "watermelon",
+    "meaning_pl": "arbuz",
+    "image": "assets/objects/1F349.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F349",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F349.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0368",
+    "word": "pineapple",
+    "meaning_pl": "ananas",
+    "image": "assets/objects/1F34D.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F34D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F34D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0369",
+    "word": "mango",
+    "meaning_pl": "mango",
+    "image": "assets/objects/1F96D.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F96D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F96D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0363",
+    "word": "peach",
+    "meaning_pl": "brzoskwinia",
+    "image": "assets/objects/1F351.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F351",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F351.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0362",
+    "word": "cherries",
+    "meaning_pl": "wiśnie",
+    "image": "assets/objects/1F352.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F352",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F352.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0360",
+    "word": "blueberries",
+    "meaning_pl": "borówki",
+    "image": "assets/objects/1FAD0.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1FAD0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAD0.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0370",
+    "word": "kiwi",
+    "meaning_pl": "kiwi",
+    "image": "assets/objects/1F95D.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F95D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F95D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0399",
+    "word": "olive",
+    "meaning_pl": "oliwka",
+    "image": "assets/objects/1FAD2.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1FAD2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAD2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0371",
+    "word": "coconut",
+    "meaning_pl": "kokos",
+    "image": "assets/objects/1F965.svg",
+    "category": "food-fruit",
+    "source": "OpenMoji",
+    "source_code": "1F965",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F965.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0372",
+    "word": "avocado",
+    "meaning_pl": "awokado",
+    "image": "assets/objects/1F951.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F951",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F951.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0393",
+    "word": "eggplant",
+    "meaning_pl": "bakłażan",
+    "image": "assets/objects/1F346.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F346",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F346.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0390",
+    "word": "corn",
+    "meaning_pl": "kolba kukurydzy",
+    "image": "assets/objects/1F33D.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F33D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F33D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f336",
+    "word": "hot pepper",
+    "meaning_pl": "papryczka chili",
+    "image": "assets/objects/1F336.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F336",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F336.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fad1",
+    "word": "bell pepper",
+    "meaning_pl": "papryka",
+    "image": "assets/objects/1FAD1.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1FAD1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAD1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0382",
+    "word": "cucumber",
+    "meaning_pl": "ogórek",
+    "image": "assets/objects/1F952.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F952",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F952.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0385",
+    "word": "broccoli",
+    "meaning_pl": "brokuł",
+    "image": "assets/objects/1F966.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F966",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F966.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0381",
+    "word": "garlic",
+    "meaning_pl": "czosnek",
+    "image": "assets/objects/1F9C4.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F9C4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0380",
+    "word": "onion",
+    "meaning_pl": "cebula",
+    "image": "assets/objects/1F9C5.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F9C5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f95c",
+    "word": "peanuts",
+    "meaning_pl": "orzeszki ziemne",
+    "image": "assets/objects/1F95C.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F95C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F95C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fad8",
+    "word": "beans",
+    "meaning_pl": "fasola",
+    "image": "assets/objects/1FAD8.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1FAD8",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAD8.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f330",
+    "word": "chestnut",
+    "meaning_pl": "kasztan",
+    "image": "assets/objects/1F330.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1F330",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F330.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fada",
+    "word": "ginger root",
+    "meaning_pl": "imbir",
+    "image": "assets/objects/1FADA.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1FADA",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FADA.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fadb",
+    "word": "peas",
+    "meaning_pl": "strąk groszku",
+    "image": "assets/objects/1FADB.svg",
+    "category": "food-vegetable",
+    "source": "OpenMoji",
+    "source_code": "1FADB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FADB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f950",
+    "word": "croissant",
+    "meaning_pl": "rogalik",
+    "image": "assets/objects/1F950.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F950",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F950.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f956",
+    "word": "baguette",
+    "meaning_pl": "bagietka",
+    "image": "assets/objects/1F956.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F956",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F956.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fad3",
+    "word": "flatbread",
+    "meaning_pl": "płaski chleb",
+    "image": "assets/objects/1FAD3.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1FAD3",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAD3.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_e0c3",
+    "word": "pretzel",
+    "meaning_pl": "precel",
+    "image": "assets/objects/E0C3.svg",
+    "category": "food-drink",
+    "source": "OpenMoji",
+    "source_code": "E0C3",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/E0C3.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f96f",
+    "word": "bagel",
+    "meaning_pl": "bajgiel",
+    "image": "assets/objects/1F96F.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F96F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F96F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0330",
+    "word": "pancakes",
+    "meaning_pl": "placuszki",
+    "image": "assets/objects/1F95E.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F95E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F95E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9c7",
+    "word": "waffles",
+    "meaning_pl": "gofry",
+    "image": "assets/objects/1F9C7.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F9C7",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C7.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0321",
+    "word": "bacon",
+    "meaning_pl": "bekon",
+    "image": "assets/objects/1F953.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F953",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F953.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f354",
+    "word": "hamburger",
+    "meaning_pl": "hamburger",
+    "image": "assets/objects/1F354.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F354",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F354.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f35f",
+    "word": "french fries",
+    "meaning_pl": "frytki",
+    "image": "assets/objects/1F35F.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F35F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F35F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0328",
+    "word": "pizza",
+    "meaning_pl": "pizza",
+    "image": "assets/objects/1F355.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F355",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F355.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f32d",
+    "word": "hot dog",
+    "meaning_pl": "hot dog",
+    "image": "assets/objects/1F32D.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F32D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F32D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0327",
+    "word": "sandwich",
+    "meaning_pl": "kanapka",
+    "image": "assets/objects/1F96A.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F96A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F96A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f32e",
+    "word": "taco",
+    "meaning_pl": "taco",
+    "image": "assets/objects/1F32E.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F32E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F32E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f32f",
+    "word": "burrito",
+    "meaning_pl": "burrito",
+    "image": "assets/objects/1F32F.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F32F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F32F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9c6",
+    "word": "falafel",
+    "meaning_pl": "falafel",
+    "image": "assets/objects/1F9C6.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F9C6",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C6.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f37f",
+    "word": "popcorn",
+    "meaning_pl": "popcorn",
+    "image": "assets/objects/1F37F.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F37F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F37F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0310",
+    "word": "butter",
+    "meaning_pl": "masło",
+    "image": "assets/objects/1F9C8.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F9C8",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C8.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0335",
+    "word": "salt",
+    "meaning_pl": "sól",
+    "image": "assets/objects/1F9C2.svg",
+    "category": "food-prepared",
+    "source": "OpenMoji",
+    "source_code": "1F9C2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f369",
+    "word": "doughnut",
+    "meaning_pl": "pączek",
+    "image": "assets/objects/1F369.svg",
+    "category": "food-sweet",
+    "source": "OpenMoji",
+    "source_code": "1F369",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F369.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9c1",
+    "word": "cupcake",
+    "meaning_pl": "babeczka",
+    "image": "assets/objects/1F9C1.svg",
+    "category": "food-sweet",
+    "source": "OpenMoji",
+    "source_code": "1F9C1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9C1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f967",
+    "word": "pie",
+    "meaning_pl": "placek",
+    "image": "assets/objects/1F967.svg",
+    "category": "food-sweet",
+    "source": "OpenMoji",
+    "source_code": "1F967",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F967.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f36b",
+    "word": "chocolate bar",
+    "meaning_pl": "tabliczka czekolady",
+    "image": "assets/objects/1F36B.svg",
+    "category": "food-sweet",
+    "source": "OpenMoji",
+    "source_code": "1F36B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F36B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0345",
+    "word": "candy",
+    "meaning_pl": "cukierek",
+    "image": "assets/objects/1F36C.svg",
+    "category": "food-sweet",
+    "source": "OpenMoji",
+    "source_code": "1F36C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F36C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f36d",
+    "word": "lollipop",
+    "meaning_pl": "lizak",
+    "image": "assets/objects/1F36D.svg",
+    "category": "food-sweet",
+    "source": "OpenMoji",
+    "source_code": "1F36D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F36D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f682",
+    "word": "locomotive",
+    "meaning_pl": "lokomotywa",
+    "image": "assets/objects/1F682.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F682",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F682.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f683",
+    "word": "railway car",
+    "meaning_pl": "wagon",
+    "image": "assets/objects/1F683.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F683",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F683.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0553",
+    "word": "train",
+    "meaning_pl": "pociąg",
+    "image": "assets/objects/1F686.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F686",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F686.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f687",
+    "word": "metro",
+    "meaning_pl": "metro",
+    "image": "assets/objects/1F687.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F687",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F687.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0554",
+    "word": "tram",
+    "meaning_pl": "tramwaj",
+    "image": "assets/objects/1F68A.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F68A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F68A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f690",
+    "word": "minibus",
+    "meaning_pl": "minibus",
+    "image": "assets/objects/1F690.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F690",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F690.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0562",
+    "word": "ambulance",
+    "meaning_pl": "karetka",
+    "image": "assets/objects/1F691.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F691",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F691.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f692",
+    "word": "fire engine",
+    "meaning_pl": "wóz strażacki",
+    "image": "assets/objects/1F692.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F692",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F692.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f693",
+    "word": "police car",
+    "meaning_pl": "radiowóz",
+    "image": "assets/objects/1F693.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F693",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F693.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0561",
+    "word": "taxi",
+    "meaning_pl": "taksówka",
+    "image": "assets/objects/1F695.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F695",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F695.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6fb",
+    "word": "pickup truck",
+    "meaning_pl": "pickup",
+    "image": "assets/objects/1F6FB.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F6FB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6FB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f69a",
+    "word": "delivery truck",
+    "meaning_pl": "samochód dostawczy",
+    "image": "assets/objects/1F69A.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F69A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F69A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0563",
+    "word": "tractor",
+    "meaning_pl": "traktor",
+    "image": "assets/objects/1F69C.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F69C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F69C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f3ce",
+    "word": "racing car",
+    "meaning_pl": "samochód wyścigowy",
+    "image": "assets/objects/1F3CE.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F3CE",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3CE.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0558",
+    "word": "motorcycle",
+    "meaning_pl": "motocykl",
+    "image": "assets/objects/1F3CD.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F3CD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3CD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6f5",
+    "word": "motor scooter",
+    "meaning_pl": "skuter",
+    "image": "assets/objects/1F6F5.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F6F5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6F5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9bd",
+    "word": "manual wheelchair",
+    "meaning_pl": "wózek inwalidzki",
+    "image": "assets/objects/1F9BD.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F9BD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9BD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6f4",
+    "word": "kick scooter",
+    "meaning_pl": "hulajnoga",
+    "image": "assets/objects/1F6F4.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F6F4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6F4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6f9",
+    "word": "skateboard",
+    "meaning_pl": "deskorolka",
+    "image": "assets/objects/1F6F9.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F6F9",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6F9.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6fc",
+    "word": "roller skate",
+    "meaning_pl": "wrotek",
+    "image": "assets/objects/1F6FC.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F6FC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6FC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0570",
+    "word": "wheel",
+    "meaning_pl": "koło",
+    "image": "assets/objects/1F6DE.svg",
+    "category": "transport-ground",
+    "source": "OpenMoji",
+    "source_code": "1F6DE",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6DE.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_2693",
+    "word": "anchor",
+    "meaning_pl": "kotwica",
+    "image": "assets/objects/2693.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "2693",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/2693.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6df",
+    "word": "ring buoy",
+    "meaning_pl": "koło ratunkowe",
+    "image": "assets/objects/1F6DF.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "1F6DF",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6DF.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_26f5",
+    "word": "sailboat",
+    "meaning_pl": "żaglówka",
+    "image": "assets/objects/26F5.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "26F5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/26F5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6f6",
+    "word": "canoe",
+    "meaning_pl": "kanoe",
+    "image": "assets/objects/1F6F6.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "1F6F6",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6F6.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6a4",
+    "word": "speedboat",
+    "meaning_pl": "motorówka",
+    "image": "assets/objects/1F6A4.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "1F6A4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6A4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0568",
+    "word": "ferry",
+    "meaning_pl": "prom",
+    "image": "assets/objects/26F4.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "26F4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/26F4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0567",
+    "word": "ship",
+    "meaning_pl": "statek",
+    "image": "assets/objects/1F6A2.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "1F6A2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6A2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0564",
+    "word": "airplane",
+    "meaning_pl": "samolot",
+    "image": "assets/objects/2708.svg",
+    "category": "transport-air",
+    "source": "OpenMoji",
+    "source_code": "2708",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/2708.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa82",
+    "word": "parachute",
+    "meaning_pl": "spadochron",
+    "image": "assets/objects/1FA82.svg",
+    "category": "transport-air",
+    "source": "OpenMoji",
+    "source_code": "1FA82",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA82.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0565",
+    "word": "helicopter",
+    "meaning_pl": "helikopter",
+    "image": "assets/objects/1F681.svg",
+    "category": "transport-air",
+    "source": "OpenMoji",
+    "source_code": "1F681",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F681.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6f0",
+    "word": "satellite",
+    "meaning_pl": "satelita",
+    "image": "assets/objects/1F6F0.svg",
+    "category": "transport-air",
+    "source": "OpenMoji",
+    "source_code": "1F6F0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6F0.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0569",
+    "word": "rocket",
+    "meaning_pl": "rakieta",
+    "image": "assets/objects/1F680.svg",
+    "category": "transport-air",
+    "source": "OpenMoji",
+    "source_code": "1F680",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F680.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0199",
+    "word": "sunglasses",
+    "meaning_pl": "okulary przeciwsłoneczne",
+    "image": "assets/objects/1F576.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F576",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F576.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f97d",
+    "word": "goggles",
+    "meaning_pl": "gogle",
+    "image": "assets/objects/1F97D.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F97D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F97D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f97c",
+    "word": "lab coat",
+    "meaning_pl": "fartuch laboratoryjny",
+    "image": "assets/objects/1F97C.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F97C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F97C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9ba",
+    "word": "safety vest",
+    "meaning_pl": "kamizelka odblaskowa",
+    "image": "assets/objects/1F9BA.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F9BA",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9BA.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f454",
+    "word": "necktie",
+    "meaning_pl": "krawat",
+    "image": "assets/necktie-v2.svg",
+    "category": "clothing",
+    "source": "Original project illustration",
+    "source_code": "1F454",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F454.svg",
+    "license": "MIT",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f455",
+    "word": "polo shirt",
+    "meaning_pl": "koszulka polo",
+    "image": "assets/objects/1F455.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F455",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F455.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0161",
+    "word": "jeans",
+    "meaning_pl": "dżinsy",
+    "image": "assets/objects/1F456.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F456",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F456.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0170",
+    "word": "scarf",
+    "meaning_pl": "szalik",
+    "image": "assets/objects/1F9E3.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F9E3",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9E3.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9e4",
+    "word": "mittens",
+    "meaning_pl": "rękawiczki z jednym palcem",
+    "image": "assets/objects/1F9E4.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F9E4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9E4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0157",
+    "word": "coat",
+    "meaning_pl": "płaszcz",
+    "image": "assets/objects/1F9E5.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F9E5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9E5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9e6",
+    "word": "socks",
+    "meaning_pl": "skarpetki",
+    "image": "assets/objects/1F9E6.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F9E6",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9E6.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0158",
+    "word": "dress",
+    "meaning_pl": "sukienka",
+    "image": "assets/objects/1F457.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F457",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F457.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f458",
+    "word": "kimono",
+    "meaning_pl": "kimono",
+    "image": "assets/objects/1F458.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F458",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F458.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f97b",
+    "word": "sari",
+    "meaning_pl": "sari",
+    "image": "assets/objects/1F97B.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F97B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F97B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa71",
+    "word": "one-piece swimsuit",
+    "meaning_pl": "kostium kąpielowy",
+    "image": "assets/objects/1FA71.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1FA71",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA71.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0162",
+    "word": "shorts",
+    "meaning_pl": "krótkie spodenki",
+    "image": "assets/objects/1FA73.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1FA73",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA73.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1faad",
+    "word": "folding hand fan",
+    "meaning_pl": "wachlarz",
+    "image": "assets/objects/1FAAD.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1FAAD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAAD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f45b",
+    "word": "purse",
+    "meaning_pl": "portmonetka",
+    "image": "assets/objects/1F45B.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F45B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F45B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f45c",
+    "word": "handbag",
+    "meaning_pl": "torebka",
+    "image": "assets/objects/1F45C.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F45C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F45C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0635",
+    "word": "backpack",
+    "meaning_pl": "plecak",
+    "image": "assets/objects/1F392.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F392",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F392.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f45f",
+    "word": "running shoe",
+    "meaning_pl": "but sportowy",
+    "image": "assets/objects/1F45F.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F45F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F45F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f97e",
+    "word": "hiking boot",
+    "meaning_pl": "but trekkingowy",
+    "image": "assets/objects/1F97E.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F97E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F97E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f460",
+    "word": "high-heeled shoe",
+    "meaning_pl": "but na obcasie",
+    "image": "assets/objects/1F460.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F460",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F460.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0191",
+    "word": "crown",
+    "meaning_pl": "korona",
+    "image": "assets/objects/1F451.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F451",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F451.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f3a9",
+    "word": "top hat",
+    "meaning_pl": "cylinder",
+    "image": "assets/objects/1F3A9.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F3A9",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3A9.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f393",
+    "word": "graduation cap",
+    "meaning_pl": "biret",
+    "image": "assets/objects/1F393.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F393",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F393.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0169",
+    "word": "cap",
+    "meaning_pl": "czapka z daszkiem",
+    "image": "assets/objects/1F9E2.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F9E2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9E2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f484",
+    "word": "lipstick",
+    "meaning_pl": "szminka",
+    "image": "assets/objects/1F484.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F484",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F484.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0196",
+    "word": "ring",
+    "meaning_pl": "pierścionek",
+    "image": "assets/objects/1F48D.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F48D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F48D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f48e",
+    "word": "gem stone",
+    "meaning_pl": "kamień szlachetny",
+    "image": "assets/objects/1F48E.svg",
+    "category": "clothing",
+    "source": "OpenMoji",
+    "source_code": "1F48E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F48E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f3b7",
+    "word": "saxophone",
+    "meaning_pl": "saksofon",
+    "image": "assets/objects/1F3B7.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1F3B7",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3B7.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f3ba",
+    "word": "trumpet",
+    "meaning_pl": "trąbka",
+    "image": "assets/objects/1F3BA.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1F3BA",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3BA.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa8a",
+    "word": "trombone",
+    "meaning_pl": "puzon",
+    "image": "assets/objects/1FA8A.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1FA8A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA8A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa97",
+    "word": "accordion",
+    "meaning_pl": "akordeon",
+    "image": "assets/objects/1FA97.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1FA97",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA97.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0650",
+    "word": "guitar",
+    "meaning_pl": "gitara",
+    "image": "assets/objects/1F3B8.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1F3B8",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3B8.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f3b9",
+    "word": "musical keyboard",
+    "meaning_pl": "keyboard",
+    "image": "assets/objects/1F3B9.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1F3B9",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3B9.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f3bb",
+    "word": "violin",
+    "meaning_pl": "skrzypce",
+    "image": "assets/objects/1F3BB.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1F3BB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F3BB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa95",
+    "word": "banjo",
+    "meaning_pl": "banjo",
+    "image": "assets/objects/1FA95.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1FA95",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA95.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0649",
+    "word": "drum",
+    "meaning_pl": "bęben",
+    "image": "assets/objects/1F941.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1F941",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F941.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa87",
+    "word": "maracas",
+    "meaning_pl": "marakasy",
+    "image": "assets/objects/1FA87.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1FA87",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA87.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa88",
+    "word": "flute",
+    "meaning_pl": "flet",
+    "image": "assets/objects/1FA88.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1FA88",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA88.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa89",
+    "word": "harp",
+    "meaning_pl": "harfa",
+    "image": "assets/objects/1FA89.svg",
+    "category": "musical-instrument",
+    "source": "OpenMoji",
+    "source_code": "1FA89",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA89.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4f1",
+    "word": "mobile phone",
+    "meaning_pl": "telefon komórkowy",
+    "image": "assets/objects/1F4F1.svg",
+    "category": "phone",
+    "source": "OpenMoji",
+    "source_code": "1F4F1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4F1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_260e",
+    "word": "telephone",
+    "meaning_pl": "telefon",
+    "image": "assets/objects/260E.svg",
+    "category": "phone",
+    "source": "OpenMoji",
+    "source_code": "260E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/260E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f50b",
+    "word": "battery",
+    "meaning_pl": "bateria",
+    "image": "assets/objects/1F50B.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F50B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F50B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f50c",
+    "word": "plug",
+    "meaning_pl": "wtyczka",
+    "image": "assets/objects/1F50C.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F50C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F50C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4bb",
+    "word": "laptop",
+    "meaning_pl": "laptop",
+    "image": "assets/objects/1F4BB.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F4BB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4BB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f5a5",
+    "word": "desktop computer",
+    "meaning_pl": "komputer stacjonarny",
+    "image": "assets/objects/1F5A5.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F5A5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5A5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f5a8",
+    "word": "printer",
+    "meaning_pl": "drukarka",
+    "image": "assets/objects/1F5A8.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F5A8",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5A8.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_e1d1",
+    "word": "keyboard",
+    "meaning_pl": "klawiatura",
+    "image": "assets/objects/E1D1.svg",
+    "category": "technology",
+    "source": "OpenMoji",
+    "source_code": "E1D1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/E1D1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f5b1",
+    "word": "computer mouse",
+    "meaning_pl": "mysz komputerowa",
+    "image": "assets/objects/1F5B1.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F5B1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5B1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9ee",
+    "word": "abacus",
+    "meaning_pl": "liczydło",
+    "image": "assets/objects/1F9EE.svg",
+    "category": "computer",
+    "source": "OpenMoji",
+    "source_code": "1F9EE",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9EE.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f58b",
+    "word": "fountain pen",
+    "meaning_pl": "pióro wieczne",
+    "image": "assets/objects/1F58B.svg",
+    "category": "writing",
+    "source": "OpenMoji",
+    "source_code": "1F58B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F58B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0626",
+    "word": "pen",
+    "meaning_pl": "długopis",
+    "image": "assets/objects/1F58A.svg",
+    "category": "writing",
+    "source": "OpenMoji",
+    "source_code": "1F58A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F58A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f58c",
+    "word": "paintbrush",
+    "meaning_pl": "pędzel",
+    "image": "assets/objects/1F58C.svg",
+    "category": "writing",
+    "source": "OpenMoji",
+    "source_code": "1F58C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F58C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0627",
+    "word": "crayon",
+    "meaning_pl": "kredka świecowa",
+    "image": "assets/objects/1F58D.svg",
+    "category": "writing",
+    "source": "OpenMoji",
+    "source_code": "1F58D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F58D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4bc",
+    "word": "briefcase",
+    "meaning_pl": "teczka",
+    "image": "assets/objects/1F4BC.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4BC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4BC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4c1",
+    "word": "file folder",
+    "meaning_pl": "folder",
+    "image": "assets/objects/1F4C1.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4C1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4C1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4c5",
+    "word": "calendar",
+    "meaning_pl": "kalendarz",
+    "image": "assets/objects/1F4C5.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4C5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4C5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f5d2",
+    "word": "notepad",
+    "meaning_pl": "notatnik",
+    "image": "assets/objects/1F5D2.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F5D2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5D2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4cb",
+    "word": "clipboard",
+    "meaning_pl": "podkładka z klipsem",
+    "image": "assets/objects/1F4CB.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4CB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4CB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4cc",
+    "word": "pushpin",
+    "meaning_pl": "pinezka",
+    "image": "assets/objects/1F4CC.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4CC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4CC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4ce",
+    "word": "paperclip",
+    "meaning_pl": "spinacz",
+    "image": "assets/objects/1F4CE.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4CE",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4CE.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0633",
+    "word": "ruler",
+    "meaning_pl": "linijka",
+    "image": "assets/objects/1F4CF.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4CF",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4CF.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f4d0",
+    "word": "triangular ruler",
+    "meaning_pl": "ekierka",
+    "image": "assets/objects/1F4D0.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F4D0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4D0.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f5c4",
+    "word": "file cabinet",
+    "meaning_pl": "szafka na dokumenty",
+    "image": "assets/objects/1F5C4.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F5C4",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5C4.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0277",
+    "word": "bin",
+    "meaning_pl": "kosz na śmieci",
+    "image": "assets/objects/1F5D1.svg",
+    "category": "office",
+    "source": "OpenMoji",
+    "source_code": "1F5D1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5D1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f528",
+    "word": "hammer",
+    "meaning_pl": "młotek",
+    "image": "assets/objects/1F528.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1F528",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F528.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_e347",
+    "word": "axe",
+    "meaning_pl": "siekiera",
+    "image": "assets/objects/E347.svg",
+    "category": "gardening",
+    "source": "OpenMoji",
+    "source_code": "E347",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/E347.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0784",
+    "word": "pick",
+    "meaning_pl": "kilof",
+    "image": "assets/objects/26CF.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "26CF",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/26CF.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa83",
+    "word": "boomerang",
+    "meaning_pl": "bumerang",
+    "image": "assets/objects/1FA83.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1FA83",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA83.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6e1",
+    "word": "shield",
+    "meaning_pl": "tarcza",
+    "image": "assets/objects/1F6E1.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1F6E1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6E1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa9a",
+    "word": "saw",
+    "meaning_pl": "piła",
+    "image": "assets/objects/1FA9A.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1FA9A",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA9A.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f527",
+    "word": "wrench",
+    "meaning_pl": "klucz płaski",
+    "image": "assets/objects/1F527.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1F527",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F527.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa9b",
+    "word": "screwdriver",
+    "meaning_pl": "śrubokręt",
+    "image": "assets/objects/1FA9B.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1FA9B",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA9B.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_2699",
+    "word": "gear",
+    "meaning_pl": "koło zębate",
+    "image": "assets/objects/2699.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "2699",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/2699.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f5dc",
+    "word": "clamp",
+    "meaning_pl": "ścisk",
+    "image": "assets/objects/1F5DC.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1F5DC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5DC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa9d",
+    "word": "hook",
+    "meaning_pl": "hak",
+    "image": "assets/objects/1FA9D.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1FA9D",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA9D.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9f0",
+    "word": "toolbox",
+    "meaning_pl": "skrzynka na narzędzia",
+    "image": "assets/objects/1F9F0.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1F9F0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9F0.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9f2",
+    "word": "magnet",
+    "meaning_pl": "magnes",
+    "image": "assets/objects/1F9F2.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1F9F2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9F2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa9c",
+    "word": "ladder",
+    "meaning_pl": "drabina",
+    "image": "assets/objects/1FA9C.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1FA9C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA9C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa8f",
+    "word": "shovel",
+    "meaning_pl": "łopata",
+    "image": "assets/objects/1FA8F.svg",
+    "category": "tool",
+    "source": "OpenMoji",
+    "source_code": "1FA8F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA8F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0243",
+    "word": "mirror",
+    "meaning_pl": "lustro",
+    "image": "assets/objects/1FA9E.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1FA9E",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA9E.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0216",
+    "word": "window",
+    "meaning_pl": "okno",
+    "image": "assets/objects/1FA9F.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1FA9F",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA9F.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0262",
+    "word": "toilet",
+    "meaning_pl": "toaleta",
+    "image": "assets/objects/1F6BD.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F6BD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6BD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1faa0",
+    "word": "plunger",
+    "meaning_pl": "przepychacz",
+    "image": "assets/objects/1FAA0.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1FAA0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAA0.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0261",
+    "word": "shower",
+    "meaning_pl": "prysznic",
+    "image": "assets/objects/1F6BF.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F6BF",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6BF.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6c1",
+    "word": "bathtub",
+    "meaning_pl": "wanna",
+    "image": "assets/objects/1F6C1.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F6C1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6C1.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1fa92",
+    "word": "razor",
+    "meaning_pl": "maszynka do golenia",
+    "image": "assets/objects/1FA92.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1FA92",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA92.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9f7",
+    "word": "safety pin",
+    "meaning_pl": "agrafka",
+    "image": "assets/objects/1F9F7.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9F7",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9F7.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0272",
+    "word": "broom",
+    "meaning_pl": "miotła",
+    "image": "assets/objects/1F9F9.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9F9",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9F9.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0276",
+    "word": "basket",
+    "meaning_pl": "koszyk",
+    "image": "assets/objects/1F9FA.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9FA",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9FA.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9fb",
+    "word": "roll of paper",
+    "meaning_pl": "rolka papieru",
+    "image": "assets/objects/1F9FB.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9FB",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9FB.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0271",
+    "word": "bucket",
+    "meaning_pl": "wiadro",
+    "image": "assets/objects/1FAA3.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1FAA3",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAA3.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0264",
+    "word": "soap",
+    "meaning_pl": "mydło",
+    "image": "assets/objects/1F9FC.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9FC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9FC.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0266",
+    "word": "toothbrush",
+    "meaning_pl": "szczoteczka do zębów",
+    "image": "assets/objects/1FAA5.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1FAA5",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FAA5.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0270",
+    "word": "sponge",
+    "meaning_pl": "gąbka",
+    "image": "assets/objects/1F9FD.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9FD",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9FD.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f9ef",
+    "word": "fire extinguisher",
+    "meaning_pl": "gaśnica",
+    "image": "assets/objects/1F9EF.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F9EF",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9EF.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6d2",
+    "word": "shopping cart",
+    "meaning_pl": "wózek sklepowy",
+    "image": "assets/objects/1F6D2.svg",
+    "category": "household",
+    "source": "OpenMoji",
+    "source_code": "1F6D2",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6D2.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "en_0632",
+    "word": "eraser",
+    "meaning_pl": "gumka do ścierania",
+    "image": "assets/objects/1FA8C.svg",
+    "category": "writing",
+    "source": "OpenMoji",
+    "source_code": "1FA8C",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1FA8C.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
+  },
+  {
+    "id": "object_1f6d9",
+    "word": "lighthouse",
+    "meaning_pl": "latarnia morska",
+    "image": "assets/objects/1F6D9.svg",
+    "category": "transport-water",
+    "source": "OpenMoji",
+    "source_code": "1F6D9",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F6D9.svg",
+    "license": "CC-BY-SA-4.0",
+    "audit": {
+      "status": "matches_word",
+      "reviewed": "2026-10-26"
+    }
   }
 ]

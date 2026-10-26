@@ -38,3 +38,7 @@ All 32 rendered illustrations reviewed against the spoken English headword and t
 | bus | Pass: matches the word. |
 
 Cup is an original simple SVG. Fork, plate and bowl are adapted from OpenMoji, distributed under CC BY-SA 4.0 with credit in the app. Other OpenMoji art is unchanged. Original assets are retained for provenance; the app uses the audited bundle.
+
+## Expansion review — 26 October 2026
+
+Reviewed the object gallery through pictures 323 and all 50 original action scenes. Corrected plural labels for grapes, cherries, blueberries, pancakes and waffles; the collared shirt is named polo shirt and the handwear is named mittens. The necktie is a standalone original SVG. All 373 current assets are bundled and decoded before play. Sentence pictures show 25 actions with a girl and a boy, with the same actor in every answer option. The original 32-entry review above is retained.
